@@ -1,2 +1,11 @@
-# mochi-shu-updates
-Public Mochi Shu APK releases, latest.json, and daily Chinese feed; sources stay private
+# Mochi Shu Updates (`Mochi 书`)
+
+Публичный канал доставки свежих постов и подписанных релизов приложения **Mochi Shu** (HSK 3 → HSK 4 + сленг 小红书).
+
+Исходный код приложения находится в приватном репозитории `holyflash/mochi-shu`.
+
+## Файлы канала
+
+- `daily_feed.json` — пул свежих постов по темам для кнопки **«Свежий из инета»** (приложение скачивает 1 пост за клик с анти-спам задержкой 10 минут).
+- `posts_manifest.json` — метаданные текущей версии офлайн-базы постов и словаря.
+- `latest.json` и `apk/MochiShu-<version>.apk` — подписанные релизные обновления (публикуются автоматически через `publish-update.yml` после настройки ключа `tools/setup-updater-windows.ps1`).
