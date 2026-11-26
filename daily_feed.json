@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-11-25",
+  "version": 2,
+  "updatedAt": "2026-11-26",
   "count": 35,
   "cooldownMinutes": 10,
   "posts": [
@@ -89,34 +89,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Сколько времени готовится домашний напиток из поста?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "15 минут",
             "3 минуты",
             "Полчаса"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "自己做只要三分钟."
         },
         {
+          "lang": "ru",
           "question": "Что сначала кладут в сотейник на слабый огонь?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Молоко и мёд",
             "Сахар и листья чёрного чая",
             "Воду и имбирь"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "放一勺白糖和红茶叶."
         },
         {
-          "question": "Что значит сленг «刷屏»?",
+          "lang": "zh",
+          "question": "自己在家做「桂花烤奶」，第一步小火先把哪两样放进奶锅炒香？",
+          "questionPinyin": "Zìjǐ zài jiā zuò \"guìhuā kǎonǎi\", dì yī bù xiǎohuǒ xiān bǎ nǎ liǎng yàng fàngjìn nǎiguō chǎoxiāng?",
+          "questionRu": "Какие два ингредиента сначала слегка обжаривают на медленном огне, чтобы получился аромат карамельного чая с османтусом?",
           "options": [
-            "Протереть экран",
-            "Массово появляться на каждом шагу в ленте",
-            "Закрыть приложение"
+            "一勺白糖和红茶叶",
+            "两勺冰糖和干桂花瓣",
+            "半杯纯牛奶和三颗冰块"
           ],
-          "correctIndex": 1,
-          "explanation": "Заполонить всю ленту новостей однотипными постами."
+          "optionsPinyin": [
+            "Yì sháo báitáng hé hóngcháyè",
+            "Liǎng sháo bīngtáng hé gān guìhuābàn",
+            "Bàn bēi chún niúnǎi hé sān kē bīngkuài"
+          ],
+          "optionsRu": [
+            "Ложку белого сахара и листья чёрного (красного) чая",
+            "Две ложки леденцового сахара и лепестки османтуса",
+            "Полчашки молока и лёд"
+          ],
+          "correctIndex": 0,
+          "explanation": "Сначала ложку сахара и заварку прогревают до аромата карамели, затем заливают молоко и лишь под конец посыпают сухим османтусом (干桂花)."
+        },
+        {
+          "lang": "zh",
+          "question": "按文中做法煮一锅干净又低糖的烤奶一共大概需要多久？",
+          "questionPinyin": "Àn wénzhōng zuòfǎ zhǔ yì guō gānjìng yòu dītáng de kǎonǎi yígòng dàgài xūyào duōjiǔ?",
+          "questionRu": "Сколько всего времени занимает приготовление домашнего тёплого чая без долгого ожидания доставки?",
+          "options": [
+            "大概只需要三分钟",
+            "至少要冰镇放满一整个晚上",
+            "需要提前炖煮半个小时"
+          ],
+          "optionsPinyin": [
+            "Dàgài zhǐ xūyào sān fēnzhōng",
+            "Zhìshǎo yào bīngzhèn fàngmǎn yì zhěngge wǎnshang",
+            "Xūyào tíqián dùnzhǔ bàn ge xiǎoshí"
+          ],
+          "optionsRu": [
+            "Всего около трёх минут",
+            "Настаивать в холодильнике всю ночь",
+            "Томить полчаса"
+          ],
+          "correctIndex": 0,
+          "explanation": "Вместо получаса ожидания курьера за три минуты дом наполняется запахом карамели, молока и османтуса!"
         }
       ]
     },
@@ -205,34 +251,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Где автор купила этот завтрак?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "В круглосуточном магазине",
             "У нового голубого фудтрака по дороге к метро",
             "В офисной столовой"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "路口新来了一辆蓝色小餐车."
         },
         {
+          "lang": "ru",
           "question": "С чем она съела лепёшку?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "С чёрным кофе",
             "С соевым молоком без сахара",
             "С зелёным чаем"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "配一杯无糖豆浆."
         },
         {
-          "question": "Какую начинку она хочет попробовать завтра?",
+          "lang": "zh",
+          "question": "路口新来那辆蓝色小餐车现烤的黄金脆玉米饼里，除了流心鸡蛋和生菜还卷了什么？",
+          "questionPinyin": "Lùkǒu xīnlái nà liàng lánsè xiǎo cānchē xiànkǎo de huángjīn cuì yùmǐbǐng lǐ, chúle liúxīn jīdàn hé shēngcài hái juǎn le shénme?",
+          "questionRu": "Что ещё завернули в золотистую хрустящую кукурузную лепёшку кроме жидковатого яйца и салата?",
           "options": [
-            "Тунец с сыром",
-            "Куриную грудку с чёрным перцем",
-            "Бекон с томатами"
+            "满满两勺黑椒红烧肉汁",
+            "切片的大烤肠和辣白菜",
+            "厚厚的牛油果酱"
           ],
-          "correctIndex": 1,
-          "explanation": "黑椒鸡胸肉口味."
+          "optionsPinyin": [
+            "Mǎnmǎn liǎng sháo hēijiāo hóngshāoròuzhī",
+            "Qiēpiàn de dà kǎocháng hé làbáicài",
+            "Hòuhòu de niúyóuguǒjiàng"
+          ],
+          "optionsRu": [
+            "Подливу от свинины",
+            "Сосиски с кимчи",
+            "Щедрый слой пасты из авокадо (牛油果酱)"
+          ],
+          "correctIndex": 2,
+          "explanation": "Сытная и свежая комбинация злаковой лепёшки, мягкого яйца, салата и густого авокадо с несладким соевым молоком даёт сытость до самого обеда!"
+        },
+        {
+          "lang": "zh",
+          "question": "决定明早再提前五分钟出门去摊位时，作者打算尝哪一款新口味？",
+          "questionPinyin": "Juédìng míngzǎo zài tíqián wǔ fēnzhōng chūmén qù tānwèi shí, zuòzhě dǎsuàn cháng nǎ yì kuǎn xīn kǒuwèi?",
+          "questionRu": "С какой новой начинкой автор хочет попробовать лепёшку завтра утром на пять минут раньше?",
+          "options": [
+            "黑椒鸡胸肉口味",
+            "甜玉米红豆沙口味",
+            "双倍奶酪培根口味"
+          ],
+          "optionsPinyin": [
+            "Hēijiāo jīxiōngròu kǒuwèi",
+            "Tiányùmǐ hóngdòushā kǒuwèi",
+            "Shuāngbèi nǎilào péigēn kǒuwèi"
+          ],
+          "optionsRu": [
+            "С куриной грудкой и чёрным перцем",
+            "Со сладкой красной фасолью",
+            "С двойным сыром и беконом"
+          ],
+          "correctIndex": 0,
+          "explanation": "Чтобы «попробовать новинку» (尝尝鲜), завтра на очереди вариант с перечной куриной грудкой (黑椒鸡胸肉)."
         }
       ]
     },
@@ -321,34 +413,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Сколько времени занимает приготовление этого супа?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Около 30 минут",
             "10 минут",
             "Один час"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "十分钟搞定一锅美味豆腐汤."
         },
         {
+          "lang": "ru",
           "question": "Что нужно сделать с капустой перед тем, как залить кипяток?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Промыть холодной водой",
             "Слегка обжарить до аромата",
             "Посолить"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "先把泡菜炒出香味."
         },
         {
-          "question": "С чем подаёт блюдо автор?",
+          "lang": "zh",
+          "question": "下班降温想十分钟做出「零失败韩式泡菜豆腐汤」，作者往热水锅里接着放进哪三样食材？",
+          "questionPinyin": "Xiàbān jiàngwēn xiǎng shí fēnzhōng zuòchū \"líng shībài Hánshì pàocài dòufutāng\", zuòzhě wǎng rèshuǐguō lǐ jiēzhe fàngjìn nǎ sān yàng shícái?",
+          "questionRu": "Какие три ингредиента бережно опускают в кипящий бульон с обжаренной кимчи и острой пастой?",
           "options": [
-            "С лапшой",
-            "С половиной миски белого риса и зелёным луком",
-            "С тостами"
+            "切厚片的五花肉、白菜和宽粉条",
+            "大虾仁、海带结和几只圆蟹棒",
+            "嫩豆腐块、金针菇和两颗荷包蛋"
           ],
-          "correctIndex": 1,
-          "explanation": "撒点葱花配半碗白米饭."
+          "optionsPinyin": [
+            "Qiē hòupiàn de wǔhuāròu, báicài hé kuān fěntiáo",
+            "Dàxiārén, hǎidàijié hé jǐ zhī yuán xièbàng",
+            "Nèndòufu kuài, jīnzhēngū hé liǎng kē hébāodàn"
+          ],
+          "optionsRu": [
+            "Свинину с капустой и фунчозой",
+            "Креветки и морскую капусту",
+            "Кусочки нежного тофу, грибы эноки и два целых яйца"
+          ],
+          "correctIndex": 2,
+          "explanation": "Всего три минуты варки нежного тофу, золотистых нитевидных грибов (金针菇) и пары яиц — и ужин «на скорую руку» готов!"
+        },
+        {
+          "lang": "zh",
+          "question": "这锅快手豆腐汤出锅撒点葱花配半碗白米饭喝起来味道如何？",
+          "questionPinyin": "Zhè guō kuàishǒu dòufutāng chūguō sādiǎn cōnghuā pèi bàn wǎn báimǐfàn hē qǐlai wèidao rúhé?",
+          "questionRu": "Какой вкус получается у этого быстрого супа, что его даже до последней капли выпивают?",
+          "options": [
+            "清淡无味需要再单独沾很多酱油",
+            "甜丝丝又带着浓浓的奶香味",
+            "酸辣开胃，连汤底都喝得干干净净"
+          ],
+          "optionsPinyin": [
+            "Qīngdàn wúwèi xūyào zài dāndú zhàn hěn duō jiàngyóu",
+            "Tiánsīsī yòu dàizhe nóngnóng de nǎixiāngwèi",
+            "Suānlà kāiwèi, lián tāngdǐ dōu hē de gāngānjìngjìng"
+          ],
+          "optionsRu": [
+            "Совсем пресный",
+            "Сладкий со сливочным вкусом",
+            "Приятно кисло-острый, разжигающий аппетит до самого донышка кастрюли"
+          ],
+          "correctIndex": 2,
+          "explanation": "Кисловатая острота кимчи пробуждает аппетит, а суп вычищают до дна за десять минут."
         }
       ]
     },
@@ -437,34 +575,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Во сколько в этой пекарне выносят свежую партию?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "В 9 утра",
             "В 15:00",
             "В 18:00"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "每日下午三点的现烤面包出炉."
         },
         {
+          "lang": "ru",
           "question": "Каким оказался крем внутри круассана?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Слишком сладким",
             "Насыщенным фисташковым и совсем не приторным",
             "С кислинкой"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "浓郁却一点都不发腻."
         },
         {
-          "question": "Какой напиток советует автор к этому круассану?",
+          "lang": "zh",
+          "question": "这家学校附近的社区烘焙小店每天几点会准时出炉这批现烤面包？",
+          "questionPinyin": "Zhè jiā xuéxiào fùjìn de shèqū hōngbèi xiǎodiàn měitiān jǐ diǎn huì zhǔnshí chūlú zhè pī xiànkǎo miànbāo?",
+          "questionRu": "В какое время дня пекарня у университета выносит свежие круассаны?",
           "options": [
-            "Матча-латте",
-            "Айс-американо без сахара",
-            "Ягодный чай"
+            "每天下午三点",
+            "晚上八点半买一送一的时候",
+            "每天早上七点半"
           ],
-          "correctIndex": 1,
-          "explanation": "配一杯不加糖的冰美式咖啡."
+          "optionsPinyin": [
+            "Měitiān xiàwǔ sān diǎn",
+            "Wǎnshang bā diǎn bàn mǎiyīsòngyī de shíhou",
+            "Měitiān zǎoshang qī diǎn bàn"
+          ],
+          "optionsRu": [
+            "Каждый день в три часа дня",
+            "Вечером на распродаже в 20:30",
+            "В 7:30 утра"
+          ],
+          "correctIndex": 0,
+          "explanation": "Автор случайно застал выкладку ровно в три часа дня (每日下午三点的现烤面包出炉) с ещё тёплыми круассанами."
+        },
+        {
+          "lang": "zh",
+          "question": "切开这只撒满碎坚果的开心果可颂以后，里面的奶酪酱吃起来为什么不会发腻？",
+          "questionPinyin": "Qiēkāi zhè zhī sāmǎn suì jiānguǒ de kāixīnguǒ kěsòng yǐhòu, lǐmiàn de nǎilàojiàng chī qǐlai wèishénme bú huì fānì?",
+          "questionRu": "Как по вкусу сочетаются начинка и хрустящая корочка в этом фисташковом круассане?",
+          "options": [
+            "奶酪酱浓郁却清爽，和开心果坚果香在嘴里慢慢化开",
+            "因为里面基本几乎是空心的只抹了极薄一层水",
+            "因为搭配了一整颗特别酸的青柠檬汁"
+          ],
+          "optionsPinyin": [
+            "Nǎilàojiàng nóngyù què qīngshuǎng, hé kāixīnguǒ jiānguǒxiāng zài zuǐlǐ mànman huàkāi",
+            "Yīnwèi lǐmiàn jīběn jīhū shì kōngxīn de zhǐ mǒ le jí báo yì céng shuǐ",
+            "Yīnwèi dāpèi le yì zhěng kē tèbié suān de qīngníngméngzhī"
+          ],
+          "optionsRu": [
+            "Насыщенный сырный крем не приторный, в нём нежно тает ореховый аромат фисташки — а с несладким айс-американо просто идеал",
+            "Круассан совсем пустой внутри",
+            "К нему подают кислый лайм"
+          ],
+          "correctIndex": 0,
+          "explanation": "Хруст на весь стол и нежный фисташковый крем подарили ощущение зашкаливающего счастья (幸福感爆棚)."
         }
       ]
     },
@@ -553,34 +737,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "В чём маринуют куриную грудку по этому совету?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "В соевом соусе",
             "В обычном молоке с солью и перцем",
             "В кефире с чесноком"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "倒半杯纯牛奶，加黑胡椒和盐."
         },
         {
+          "lang": "ru",
           "question": "Сколько минут обжаривают каждую сторону на слабом огне?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "По 1 минуте",
             "По 3 минуты",
             "По 7 минут"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "每面小火煎三分钟."
         },
         {
-          "question": "Что значит «不柴» применительно к мясу?",
+          "lang": "zh",
+          "question": "厨师朋友教的「水嫩不柴」煎鸡胸肉秘诀，需要在切开鸡肉后加哪三样拌匀腌十分钟？",
+          "questionPinyin": "Chúshī péngyou jiāo de \"shuǐnèn bù chái\" jiān jīxiōngròu mìjué, xūyào zài qiēkāi jīròu hòu jiā nǎ sān yàng bànyún yān shí fēnzhōng?",
+          "questionRu": "В какой простой трёхкомпонентной смеси на 10 минут замачивают филе куриной грудки по совету повара?",
           "options": [
-            "Без костей",
-            "Сочное, не сухое и не жёсткое",
-            "Не острое"
+            "两大勺生抽、白糖和浓淀粉水",
+            "半瓶可乐、几片生姜和很多柠檬汁",
+            "半杯纯牛奶、一点黑胡椒和盐"
           ],
-          "correctIndex": 1,
-          "explanation": "Мягкое и сочное, не волокнисто-сухое."
+          "optionsPinyin": [
+            "Liǎng dà sháo shēngchōu, báitáng hé nóng diànfěnshuǐ",
+            "Bàn píng kělè, jǐ piàn shēngjiāng hé hěn duō níngméngzhī",
+            "Bàn bēi chún niúnǎi, yìdiǎn hēihújiāo hé yán"
+          ],
+          "optionsRu": [
+            "В соевом соусе с крахмалом",
+            "В коле с имбирём и лимоном",
+            "В полстакана обычного молока со щепоткой чёрного перца и соли"
+          ],
+          "correctIndex": 2,
+          "explanation": "Не нужен специальный порошок-размягчитель (嫩肉粉): молоко с солью и перцем за 10 минут делает мясо нежным и сочным (不柴)."
+        },
+        {
+          "lang": "zh",
+          "question": "泡完十分钟拿去平底锅煎之前，表面上的纯牛奶需要专门用水冲掉吗？",
+          "questionPinyin": "Pàowán shí fēnzhōng náqù píngdǐguō jiān zhīqián, biǎomiàn shàng de chún niúnǎi xūyào zhuānmén yòng shuǐ chōngdiào ma?",
+          "questionRu": "Нужно ли смывать молоко с грудки перед выкладыванием на сковороду?",
+          "options": [
+            "不用冲掉，直接每面小火煎三分钟就会冒汁水",
+            "放进烤箱先高火烤二十分钟再放锅里煮",
+            "必须用清水彻底冲洗五遍并拿厨房纸擦到全干"
+          ],
+          "optionsPinyin": [
+            "Búyòng chōngdiào, zhíjiē měi miàn xiǎohuǒ jiān sān fēnzhōng jiù huì mào zhīshuǐ",
+            "Fàngjìn kǎoxiāng xiān gāohuǒ kǎo èrshí fēnzhōng zài fàng guōlǐ zhǔ",
+            "Bìxū yòng qīngshuǐ chèdǐ chōngxǐ wǔ biàn bìng ná chúfángzhǐ cā dào quán gān"
+          ],
+          "optionsRu": [
+            "Смывать не надо — сразу на малом огне по 3 минуты с каждой стороны до сочности",
+            "Запечь в духовке 20 минут",
+            "Тщательно отмыть водой и высушить"
+          ],
+          "correctIndex": 0,
+          "explanation": "Прямо в тонкой молочной плёнке мясо жарят по 3 минуты на малом огне, а потом подают с салатом, черри и кукурузой!"
         }
       ]
     },
@@ -669,34 +899,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Сколько точек тела должно касаться стены при правильной стойке?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Три точки",
             "Пять точек (пятки, икры, ягодицы, плечи, затылок)",
             "Только спина и голова"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "五个点轻轻贴住墙面."
         },
         {
+          "lang": "ru",
           "question": "Сколько минут автор стоит у стены?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "5 минут",
             "10 минут",
             "20 минут"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "贴墙站立十分钟."
         },
         {
-          "question": "Почему такое упражнение удобно делать в офисе?",
+          "lang": "zh",
+          "question": "做「饭后靠墙站」习惯时，身体一共有哪五个点应该轻轻贴住平整白墙？",
+          "questionPinyin": "Zuò \"fànhòu kàoqiángzhàn\" xíguàn shí, shēntǐ yígòng yǒu nǎ wǔ ge diǎn yīnggāi qīngqīng tiēzhù píngzhěng báiqiáng?",
+          "questionRu": "Какие пять точек тела должны легко касаться стены при правильном стоянии после обеда?",
           "options": [
-            "Занимает мало места и не требует коврика или инвентаря",
-            "Разгоняет сонливость громкой музыкой",
-            "Обязательно с тренером"
+            "脚尖、膝盖、肚子、下巴和两只手掌心",
+            "脚后跟、小腿肚子、臀部、肩膀和后脑勺",
+            "只有两只耳朵后面和脚踝贴住就足够了"
           ],
-          "correctIndex": 0,
-          "explanation": "不用买垫子也不花一分钱."
+          "optionsPinyin": [
+            "Jiǎojiān, xīgài, dùzi, xiàba hé liǎng zhī shǒuzhǎngxīn",
+            "Jiǎohòugēn, xiǎotuǐdùzi, túnbù, jiānbǎng hé hòunǎosháo",
+            "Zhǐyǒu liǎng zhī ěrduo hòumiàn hé jiǎohuái tiēzhù jiù zúgòu le"
+          ],
+          "optionsRu": [
+            "Носки, колени, живот, подбородок и ладони",
+            "Пятки, икры, ягодицы, плечи и затылок",
+            "Только уши и лодыжки"
+          ],
+          "correctIndex": 1,
+          "explanation": "Пятиточечная опора вытягивает позвоночник, убирает вытянутую шею и округлые плечи (圆肩) от офисного стола."
+        },
+        {
+          "lang": "zh",
+          "question": "坚持每天饭后在走廊站满十分钟一个月后，她感觉脊背和体型有什么改善？",
+          "questionPinyin": "Jiānchí měitiān fànhòu zài zǒuláng zhànmǎn shí fēnzhōng yí ge yuè hòu, tā gǎnjué jǐbèi hé tǐxíng yǒu shénme gǎishàn?",
+          "questionRu": "Какой заметный результат проявился через месяц регулярного 10-минутного стояния у стены?",
+          "options": [
+            "除了站完脚有点疼以外腰和脖子反而越来越弯",
+            "直接轻了整整二十斤再也不用跑五公里了",
+            "小肚子和圆肩都改善了，整个脊背舒展开了"
+          ],
+          "optionsPinyin": [
+            "Chúle zhànwán jiǎo yǒudiǎn téng yǐwài yāo hé bózi fǎn'ér yuè lái yuè wān",
+            "Zhíjiē qīng le zhěngzhěng èrshí jīn zài yě búyòng pǎo wǔ gōnglǐ le",
+            "Xiǎo dùzi hé yuánjiān dōu gǎishàn le, zhěngge jǐbèi shūzhǎn kāi le"
+          ],
+          "optionsRu": [
+            "Спина стала болеть сильнее",
+            "Похудела на десять килограмм",
+            "Животик и сутулые плечи (圆肩) заметно подтянулись, а спина приятно расправилась"
+          ],
+          "correctIndex": 2,
+          "explanation": "Не требуя ни коврика, ни денег, простая поза прямо в коридоре офиса исправила осанку."
         }
       ]
     },
@@ -785,34 +1061,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Сколько длится полный комплекс утренней гимнастики?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "30 минут",
             "12 минут",
             "5 минут"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "全套十二分钟打下来."
         },
         {
+          "lang": "ru",
           "question": "Почему комплекс подходит даже для маленькой съёмной комнаты?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Не требует интернета",
             "Там 8 плавных упражнений без бега и прыжков",
             "Делается сидя"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "不用跑不用跳... 租房小客厅就能练完."
         },
         {
-          "question": "Что произошло через две недели практики?",
+          "lang": "zh",
+          "question": "本来以为「八段锦」只有公园爷爷奶奶才练，真自己跟着练完后她发现对什么部位最友好？",
+          "questionPinyin": "Běnlái yǐwéi \"Bāduànjǐn\" zhǐyǒu gōngyuán yéye-nǎinai cái liàn, zhēn zìjǐ gēnzhe liànwán hòu tā fāxiàn duì shénme bùwèi zuì yǒuhǎo?",
+          "questionRu": "Почему древняя гимнастика «Восемь кусков парчи» (八段锦) идеально подошла молодой офисной работнице в маленькой съёмной комнате?",
           "options": [
-            "Увеличились мышцы ног",
-            "Прошла зажатость в плечах от работы за столом",
-            "Улучшился аппетит"
+            "一共八节不跑不跳，对膝盖零负担，极改善僵硬肩颈",
+            "专门用来快速练出六块腹肌并能在一个月举起百斤重物",
+            "能一边剧烈蹦跳出一身汗一边在客厅学跳街舞"
           ],
-          "correctIndex": 1,
-          "explanation": "肩膀僵硬居然好了一大半."
+          "optionsPinyin": [
+            "Yígòng bā jié bù pǎo bú tiào, duì xīgài líng fùdān, jí gǎishàn jiāngyìng jiānjǐng",
+            "Zhuānmén yònglái kuàisù liànchū liù kuài fùjī bìng néng zài yí ge yuè jǔqǐ bǎijīn zhòngwù",
+            "Néng yìbiān jùliè bèngtiào chū yì shēn hàn yìbiān zài kètīng xué tiào jiēwǔ"
+          ],
+          "optionsRu": [
+            "8 плавных форм без прыжков и бега: ноль нагрузки на колени, зато снимает зажим в шее и плечах",
+            "Быстро качает пресс для бодибилдинга",
+            "Учит хип-хоп движениям"
+          ],
+          "correctIndex": 0,
+          "explanation": "Всего 12 минут без одышки (不气喘吁吁) словно смазывают заржавевшие суставы!"
+        },
+        {
+          "lang": "zh",
+          "question": "早起坚持打两周十二分钟的八段锦后，除肩膀松快外还治好了什么冬天老毛病？",
+          "questionPinyin": "Zǎoqǐ jiānchí dǎ liǎng zhōu shí'èr fēnzhōng de Bāduànjǐn hòu, chú jiānbǎng sōngkuài wài hái zhìhǎo le shénme dōngtiān lǎo máobing?",
+          "questionRu": "Какой зимний дискомфорт ушёл вместе со скованностью шеи через две недели утренней гимнастики?",
+          "options": [
+            "再也不用去公园看别人打球自己直接变成教练",
+            "晚上以前总睡八小时现在只要睡三小时就行",
+            "手脚不再像以前那样冬天总是冰凉了"
+          ],
+          "optionsPinyin": [
+            "Zài yě búyòng qù gōngyuán kàn biérén dǎqiú zìjǐ zhíjiē biànchéng jiàoliàn",
+            "Wǎnshang yǐqián zǒng shuì bā xiǎoshí xiànzài zhǐyào shuì sān xiǎoshí jiù xíng",
+            "Shǒujiǎo bú zài xiàng yǐqián nàyàng dōngtiān zǒngshì bīngliáng le"
+          ],
+          "optionsRu": [
+            "Стала тренером в парке",
+            "Сократилась потребность во сне",
+            "Перестали вечно леденеть руки и ноги (手脚不再冰凉)"
+          ],
+          "correctIndex": 2,
+          "explanation": "Спина согревается уже на третьем упражнении, разгоняя кровь до кончиков пальцев."
         }
       ]
     },
@@ -901,34 +1223,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Где каталась автор вечером?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "На велотреке",
             "По зелёной дорожке вдоль реки",
             "По оживлённой улице"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "在河滨绿道扫一辆共享单车."
         },
         {
+          "lang": "ru",
           "question": "Сколько километров она проехала, не заметив усталости?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "5 км",
             "12 км",
             "20 км"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "骑了十二公里."
         },
         {
-          "question": "Как автор называет прогулку на природе в финале?",
+          "lang": "zh",
+          "question": "为什么以前去健身房对着镜子蹬动感单车才二十分钟，他总是觉得枯燥？",
+          "questionPinyin": "Wèishénme yǐqián qù jiànshēnfáng duìzhe jìngzi dēng dònggǎn dānchē cái èrshí fēnzhōng, tā zǒngshì juéde kūzào?",
+          "questionRu": "Почему автор быстро скучал на велотренажёре в зале уже на двадцатой минуте?",
           "options": [
-            "Бесплатным парком",
-            "Спортзалом природы",
-            "Самым быстрым транспортом"
+            "只能一直死盯着镜子和手机上的倒计时",
+            "因为健身房里冷气根本不吹而且完全没有音乐",
+            "因为教练每天要求他必须一口气骑满五十公里"
           ],
-          "correctIndex": 1,
-          "explanation": "大自然的健身房永远不让人失望."
+          "optionsPinyin": [
+            "Zhǐ néng yìzhí sǐ dīngzhe jìngzi hé shǒujī shàng de dàojìshí",
+            "Yīnwèi jiànshēnfáng lǐ lěngqì gēnběn bù chuī érqiě wánquán méiyǒu yīnyuè",
+            "Yīnwèi jiàoliàn měitiān yāoqiú tā bìxū yìkǒuqì qí mǎn wǔshí gōnglǐ"
+          ],
+          "optionsRu": [
+            "Приходилось тупо смотреть на отражение в зеркале и отсчёт минут на таймере",
+            "В зале не работала вентиляция",
+            "Тренер требовал 50 км подряд"
+          ],
+          "correctIndex": 0,
+          "explanation": "Набережная в половине шестого вечера с прохладным речным ветерком, шелестом листвы и розовым закатом оказалась в десять раз приятнее!"
+        },
+        {
+          "lang": "zh",
+          "question": "傍晚在河滨绿道戴耳机骑着共享单车不知不觉一小时，他一共骑多远且消耗多少热量？",
+          "questionPinyin": "Bàngwǎn zài hébīn lǜdào dài ěrjī qízhe gòngxiǎng dānchē bùzhī-bùjué yì xiǎoshí, tā yígòng qí duō yuǎn qiě xiāohào duōshao rèliàng?",
+          "questionRu": "Какой итог принесла часовая прогулка на городском велосипеде с QR-кодом (共享单车) по набережной?",
+          "options": [
+            "骑了十二公里，轻松消耗四百卡路里且腿一点不累",
+            "只骑了两公里就因为路面太颠不得不推着走",
+            "花掉两百块租车费只消耗了一百卡路里"
+          ],
+          "optionsPinyin": [
+            "Qí le shí'èr gōnglǐ, qīngsōng xiāohào sìbǎi kǎlùlǐ qiě tuǐ yìdiǎn bú lèi",
+            "Zhǐ qí le liǎng gōnglǐ jiù yīnwèi lùmiàn tài diān bùdébù tuīzhe zǒu",
+            "Huādiào liǎngbǎi kuài zūchēfèi zhǐ xiāohào le yìbǎi kǎlùlǐ"
+          ],
+          "optionsRu": [
+            "Незаметно проехал 12 км и сжёг 400 ккал всего за пару юаней, вообще не устав",
+            "Проехал всего 2 км пешком",
+            "Потратил 200 юаней за прокат"
+          ],
+          "correctIndex": 0,
+          "explanation": "Природный «спортзал под открытым небом» никогда не подводит!"
         }
       ]
     },
@@ -1017,34 +1385,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Почему после первых пробежек ноги кажутся опухшими?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Сразу растут огромные мышцы",
             "Мышцы остаются в напряжении без растяжки",
             "Слишком жёсткий асфальт"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "肌肉一直处于充血紧张状态没有放松."
         },
         {
+          "lang": "ru",
           "question": "Сколько минут нужно тянуть ноги после 5 км?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "15 минут",
             "5 минут",
             "1 минуту"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "花五分钟拉伸."
         },
         {
-          "question": "Где автор делает растяжку икр в конце?",
+          "lang": "zh",
+          "question": "很多女生坚持慢跑两周发现小腿紧绷好像「变粗了」，文中澄清真实原因是什么？",
+          "questionPinyin": "Hěn duō nǚshēng jiānchí mànpǎo liǎng zhōu fāxiàn xiǎotuǐ jǐnbēng hǎoxiàng \"biàncū le\", wénzhōng chéngqīng zhēnshí yuányīn shì shénme?",
+          "questionRu": "Почему на самом деле ноги часто кажутся слегка отёкшими и плотными в первые недели бега?",
           "options": [
-            "Лёжа на кровати",
-            "Опираясь носком на край ступеньки лестницы",
-            "В лифте"
+            "因为跑鞋码数偏小半码直接把小腿勒肿起来了",
+            "不是长了大块肌肉，而是跑后肌肉充血紧张没放松",
+            "因为跑步前喝了太多热水导致小腿里面水肿了"
+          ],
+          "optionsPinyin": [
+            "Yīnwèi pǎoxiē mǎshù piānxiǎo bàn mǎ zhíjiē bǎ xiǎotuǐ lēizhǒng qǐlai le",
+            "Bú shì zhǎng le dà kuài jīròu, érshì pǎohòu jīròu chōngxuè jǐnzhāng méi fàngsōng",
+            "Yīnwèi pǎobù qián hē le tài duō rèshuǐ dǎozhì xiǎotuǐ lǐmiàn shuǐzhǒng le"
+          ],
+          "optionsRu": [
+            "Из-за тесных кроссовок",
+            "Это не резкий рост огромных мышц, а просто мышечный спазм и приток крови без растяжки после финиша",
+            "От выпитой перед бегом горячей воды"
           ],
           "correctIndex": 1,
-          "explanation": "前脚掌踩在台阶边往下压脚后跟."
+          "explanation": "Девушки пугаются и бросают бег зря: всё решает обязательная 5-минутная растяжка (拉伸) на ступеньках."
+        },
+        {
+          "lang": "zh",
+          "question": "在楼梯台阶或长椅旁花五分钟拉伸小腿时，作者怎么把脚跟压下去？",
+          "questionPinyin": "Zài lóutī táijiē huò chángyǐ páng huā wǔ fēnzhōng lāshēn xiǎotuǐ shí, zuòzhě zěnme bǎ jiǎogēn yā xiàqu?",
+          "questionRu": "Какое упражнение на ступеньке лестницы сразу убирает забитость икр после 5-километровой пробежки?",
+          "options": [
+            "前脚掌踩在台阶边，把脚后跟往下沉压三十秒",
+            "直接脱掉运动鞋光脚在冰冷水泥台阶上踩五分钟",
+            "背靠墙壁用后脚跟悬空快速跳跃三十下"
+          ],
+          "optionsPinyin": [
+            "Qián jiǎozhǎng cǎi zài táijiē biān, bǎ jiǎohòugēn wǎng xià chényā sānshí miǎo",
+            "Zhíjiē tuōdiào yùndòngxié guāngjiǎo zài bīnglěng shuǐní táijiē shàng cǎi wǔ fēnzhōng",
+            "Bèi kào qiángbì yòng hòu jiǎogēn xuánkōng kuàisù tiàoyuè sānshí xià"
+          ],
+          "optionsRu": [
+            "Носком встаёт на край ступени и плавно опускает пятку вниз на 30 секунд (плюс тянет квадрицепс на перилах)",
+            "Стоит босиком на холодном бетоне",
+            "Быстро прыгает на пятках"
+          ],
+          "correctIndex": 0,
+          "explanation": "После грамотной растяжки на следующее утро ноги лёгкие, тонкие и вообще без боли."
         }
       ]
     },
@@ -1133,34 +1547,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Почему автор не пошла гулять в парк?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Устала на работе",
             "Несколько дней подряд шли дожди",
             "Болело колено"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "连着下了好几天雨，公园快走只能取消."
         },
         {
+          "lang": "ru",
           "question": "Зачем она расстелила толстый коврик?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Чтобы было мягче прыгать",
             "Чтобы не мешать шумом соседям снизу",
             "Чтобы не поскользнуться"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "就不会吵到楼下邻居."
         },
         {
-          "question": "На какой минуте тренировки у неё выступил пот?",
+          "lang": "zh",
+          "question": "连续几天阴雨取消了户外公园快走后，作者在家里做了什么防止吵到楼下邻居？",
+          "questionPinyin": "Liánxù jǐ tiān yīnyǔ qǔxiāo le hùwài gōngyuán kuàizǒu hòu, zuòzhě zài jiālǐ zuò le shénme fángzhǐ chǎodào lóuxià línjū?",
+          "questionRu": "Как автор защитила покой соседей снизу, решив позаниматься фитнесом в гостиной?",
           "options": [
-            "На 2-й минуте",
-            "На 7-й минуте",
-            "После конца видео"
+            "铺上加厚瑜伽隔音垫并选了无跑跳室内操",
+            "先去楼下按门铃提前送了两斤苹果请邻居戴耳机",
+            "只站在客厅软沙发中间轻手轻脚做二十下深呼吸"
+          ],
+          "optionsPinyin": [
+            "Pūshàng jiāhòu yújiā géyīndiàn bìng xuǎn le wú pǎotiào shìnèicāo",
+            "Xiān qù lóuxià àn ménlíng tíqián sòng le liǎng jīn píngguǒ qǐng línjū dài ěrjī",
+            "Zhǐ zhàn zài kètīng ruǎn shāfā zhōngjiān qīngshǒu-qīngjiǎo zuò èrshí xià shēnhūxī"
+          ],
+          "optionsRu": [
+            "Постелила плотный толстый йога-мат (隔音垫) и выбрала тренировку без прыжков и бега",
+            "Отнесла соседям яблоки",
+            "Только дышала на диване"
+          ],
+          "correctIndex": 0,
+          "explanation": "Подъёмы коленей на месте, приседания и раскрытия без прыжков не стучат по полу, а к седьмой минуте уже прошибает пот!"
+        },
+        {
+          "lang": "zh",
+          "question": "这组看起来短短十分钟的无跑跳操通常做到第几分钟时额头就开始冒汗？",
+          "questionPinyin": "Zhè zǔ kàn qǐlai duǎnduǎn shí fēnzhōng de wú pǎotiào cāo tōngcháng zuòdào dì jǐ fēnzhōng shí étóu jiù kāishǐ màohàn?",
+          "questionRu": "На какой минуте 10-минутной бесшумной домашней зарядки сердцебиение ускоряется и выступает пот?",
+          "options": [
+            "直到二十分钟洗完澡以后才出一点汗",
+            "做到第七分钟时",
+            "一秒钟没做完就已经大汗淋漓"
+          ],
+          "optionsPinyin": [
+            "Zhídào èrshí fēnzhōng xǐwán zǎo yǐhòu cái chū yìdiǎn hàn",
+            "Zuòdào dì qī fēnzhōng shí",
+            "Yì miǎozhōng méi zuòwán jiù yǐjīng dàhàn-línlí"
+          ],
+          "optionsRu": [
+            "Только через 20 минут в душе",
+            "К седьмой минуте",
+            "На первой же секунде"
           ],
           "correctIndex": 1,
-          "explanation": "做到第七分钟的时候额头已经开始冒汗."
+          "explanation": "Нельзя недооценивать 10 минут — никакая непогода не повод «лечь пластом» (躺平)!"
         }
       ]
     },
@@ -1249,34 +1709,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Сколько ехала автор до старинного городка на поезде?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Три часа",
             "Около полутора часов / выехала в 9, в 10:30 была у реки",
             "Двадцать минут"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "九点出发，不到十点半站在河边."
         },
         {
+          "lang": "ru",
           "question": "Чем это место отличалось от популярных курортов?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Более высокими ценами",
             "Отсутствием громкого шума и однотипных сувенирных лавок",
             "Слишком широкими дорогами"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "没有高音喇叭和千篇一律的纪念品店."
         },
         {
-          "question": "Сколько стоил чайник чая в деревянной чайной?",
+          "lang": "zh",
+          "question": "坐一小时城际高铁就能到的冷门古镇，为什么比热门大景区更得作者欢心？",
+          "questionPinyin": "Zuò yì xiǎoshí chéngjì gāotiě jiù néng dào de lěngmén gǔzhèn, wèishénme bǐ rèmén dà jǐngqū gèng dé zuòzhě huānxīn?",
+          "questionRu": "Чем тихий малоизвестный старый городок в часе езды выгодно отличается от раскрученных туристических мест?",
           "options": [
-            "50 юаней",
-            "20 юаней",
-            "35 юаней"
+            "没有高音喇叭和千篇一律纪念品店，老人门前晒萝卜干很宁静",
+            "整个古镇周末全部免费包吃包住还赠送当地高铁票",
+            "里面全是二十四小时营业的大型海鲜夜市和大型过山车"
           ],
-          "correctIndex": 1,
-          "explanation": "花二十块钱点了壶当地红茶."
+          "optionsPinyin": [
+            "Méiyǒu gāoyīn lǎba hé qiānpiān-yílǜ jìniànpǐndiàn, lǎorén ménqián shài luóbogān hěn níngjìng",
+            "Zhěngge gǔzhèn zhōumò quánbù miǎnfèi bāochī-bāozhù hái zèngsòng dāngdì gāotiěpiào",
+            "Lǐmiàn quán shì èrshísì xiǎoshí yíngyè de dàxíng hǎixiān yèshì hé dàxíng guòshānchē"
+          ],
+          "optionsRu": [
+            "Нет громкоговорителей и однотипных сувенирных лавок — лишь старики сушат редьку у порогов",
+            "Всё бесплатно раздают",
+            "Там круглые сутки работает огромный луна-парк"
+          ],
+          "correctIndex": 0,
+          "explanation": "Никакой суеты и толчеи: сидишь на набережной под зимним солнцем уже в 10:30 утра."
+        },
+        {
+          "lang": "zh",
+          "question": "下午花二十块钱在河边木楼茶馆点了壶当地红茶后，作者消磨了一整个下午做什么？",
+          "questionPinyin": "Xiàwǔ huā èrshí kuài qián zài hébiān mùlóu cháguǎn diǎn le hú dāngdì hóngchá hòu, zuòzhě xiāomó le yì zhěngge xiàwǔ zuò shénme?",
+          "questionRu": "Как автор провёл весь день в деревянной чайной на берегу реки за 20 юаней?",
+          "options": [
+            "听着船桨划水声安静看了一下午书",
+            "打开笔记本电脑一直连续开了四个小时远程视频会",
+            "找民宿老板娘学习了三种如何晒白萝卜干的方法"
+          ],
+          "optionsPinyin": [
+            "Tīngzhe chuánjiǎng huáshuǐshēng ānjìng kàn le yí xiàwǔ shū",
+            "Dǎkāi bǐjìběn diànnǎo yìzhí liánxù kāi le sì ge xiǎoshí yuǎnchéng shìpínhuì",
+            "Zhǎo mínsù lǎobǎnniáng xuéxí le sān zhǒng rúhé shài báiluóbogān de fāngfǎ"
+          ],
+          "optionsRu": [
+            "Тихо читал книгу под мерный плеск вёсел за окном",
+            "Проводил 4-часовой рабочий созвон",
+            "Учился сушить редьку"
+          ],
+          "correctIndex": 0,
+          "explanation": "После такого ленивого уикенда возвращаешься на работу буквально «ожившим» (复活了)."
         }
       ]
     },
@@ -1365,34 +1871,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "На какое время завела будильник автор?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "На 5:30",
             "На 6:30",
             "На 7:30"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "把闹钟调到了早上六点半."
         },
         {
+          "lang": "ru",
           "question": "Кого она встретила на утреннем променаде?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Группу фотографов",
             "Только двух бегущих женщин",
             "Рыбаков с удочками"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "除了两位晨跑阿姨以外空无一人."
         },
         {
-          "question": "Что удобно совпало после возвращения в отель?",
+          "lang": "zh",
+          "question": "这次去海边旅行他咬牙把闹钟调到早上六点半走上木栈道时，看见除了自己还有谁？",
+          "questionPinyin": "Zhè cì qù hǎibiān lǚxíng tā yǎoyá bǎ nàozhōng tiáodào zǎoshang liù diǎn bàn zǒushàng mùzhàndào shí, kànjiàn chúle zìjǐ hái yǒu shéi?",
+          "questionRu": "Сколько людей автор встретил на длинной деревянной набережной у моря в половине седьмого утра?",
           "options": [
-            "Попала на бесплатный завтрак",
-            "Как раз успела выписаться к 10 утра",
-            "Начался дождь"
+            "除了两位晨跑阿姨以外空无一人",
+            "十几个拿着专业相机蹲在海水里拍海豚的摄影师",
+            "已经挤满了两百多排着队打卡等日出的旅行团"
           ],
-          "correctIndex": 1,
-          "explanation": "刚好赶上十点退房."
+          "optionsPinyin": [
+            "Chúle liǎng wèi chénpǎo āyí yǐwài kōngwú-yìrén",
+            "Shí jǐ ge názhe zhuānyè xiàngjī dūn zài hǎishuǐ lǐ pāi hǎitún de shèyǐngshī",
+            "Yǐjīng jǐmǎn le liǎngbǎi duō páizheduì dǎkǎ děng rìchū de lǚxíngtuán"
+          ],
+          "optionsRu": [
+            "Ни души вокруг, кроме двух бодрых тётушек на утренней пробежке (空无一人)",
+            "Десяток фотографов в воде",
+            "Двести туристов с селфи-палками"
+          ],
+          "correctIndex": 0,
+          "explanation": "Пока сони спят до десяти, в 7 утра морской воздух пахнет солью, а прозрачная вода блестит как золото."
+        },
+        {
+          "lang": "zh",
+          "question": "坐在海边长椅迎着七点不刺眼的柔光慢慢喝完一杯热豆浆后，他正好赶上几点的酒店退房？",
+          "questionPinyin": "Zuò zài hǎibiān chángyǐ yíngzhe qī diǎn bú cìyǎn de róuguāng mànman hēwán yì bēi rè dòujiāng hòu, tā zhènghǎo gǎnshàng jǐ diǎn de jiǔdiàn tuìfáng?",
+          "questionRu": "На сколько часов утра автор успел спокойно вернуться на выселение из отеля после морской прогулки?",
+          "options": [
+            "一直坐到下午两点才想起来退房",
+            "上午九点前就飞快跑回去了",
+            "刚好赶上早上十点退房"
+          ],
+          "optionsPinyin": [
+            "Yìzhí zuòdào xiàwǔ liǎng diǎn cái xiǎng qǐlai tuìfáng",
+            "Shàngwǔ jiǔ diǎn qián jiù fēikuài pǎo huíqu le",
+            "Gānghǎo gǎnshàng zǎoshang shí diǎn tuìfáng"
+          ],
+          "optionsRu": [
+            "До двух часов дня",
+            "До девяти утра",
+            "Ровно к выселению в 10 утра"
+          ],
+          "correctIndex": 2,
+          "explanation": "Всего полчаса раннего подъёма подарили «собственный» сапфировый океан и спокойный завтрак."
         }
       ]
     },
@@ -1481,34 +2033,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Сколько стоил билет на медленный поезд?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "58 юаней",
             "38 юаней",
             "20 юаней"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "票价只要三十八块钱."
         },
         {
+          "lang": "ru",
           "question": "Что видела автор за окном вместо тоннелей?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Высокие здания",
             "Золотые рисовые поля, речушки и маленькие станции",
             "Глухой лес"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "金黄色的稻田和小河沟 + 红砖小站台."
         },
         {
-          "question": "Какую мысль поняла девушка в пути?",
+          "lang": "zh",
+          "question": "因为不赶时间，这趟他故意花三十八块钱选的「绿皮慢火车」一路绕过了哪些美如老电影的风景？",
+          "questionPinyin": "Yīnwèi bù gǎn shíjiān, zhè tàng tā gùyì huā sānshíbā kuài qián xuǎn de \"lǜpí mànhuǒchē\" yílù ràoguò le nǎxiē měi rú lǎo diànyǐng de fēngjǐng?",
+          "questionRu": "Какие тёплые картины проплывали за окном дешёвого ретро-поезда (绿皮火车) за 38 юаней вместо тоннелей скоростной трассы?",
           "options": [
-            "Лучше ездить только на скоростных поездах",
-            "Сама неспешная дорога уже часть прекрасного путешествия",
-            "Ночью ехать удобнее"
+            "大片金色稻田、小河沟、红砖小站和挑菜篮的老奶奶",
+            "高楼林立的城市工业区和几十公里长的黑色隧道",
+            "一望无际的白雪高原、盐湖和成群奔跑的小马儿"
+          ],
+          "optionsPinyin": [
+            "Dàpiàn jīnsè dàotián, xiǎohégōu, hóngzhuān xiǎozhàn hé tiāo càilán de lǎo nǎinai",
+            "Gāolóu línlì de chéngshì gōngyèqū hé jǐshí gōnglǐ cháng de hēisè suìdào",
+            "Yíwàng-wújì de báixuě gāoyuán, yánhú hé chéngqún bēnpǎo de xiǎo mǎ'ér"
+          ],
+          "optionsRu": [
+            "Золотые рисовые поля, ручейки, красные кирпичные полустанки и старушка с коромыслом",
+            "Сплошные заводы и бесконечные тоннели",
+            "Заснеженные горы и соляное озеро"
+          ],
+          "correctIndex": 0,
+          "explanation": "В отличие от пролетающего сквозь бетонные трубы Сапсана/Гаотие, неспешный зелёный поезд подарил живой ретро-фильм за 2 часа пути."
+        },
+        {
+          "lang": "zh",
+          "question": "在摇晃的老火车车厢里边吃橘子边听歌，他明白了一句什么旅行体会？",
+          "questionPinyin": "Zài yáohuàng de lǎo huǒchē chēxiāng lǐ biān chī júzi biān tīnggē, tā míngbai le yí jù shénme lǚxíng tǐhuì?",
+          "questionRu": "Какой вывод о путешествиях он сформулировал, жуя мандарины под стук колёс?",
+          "options": [
+            "以后不管去哪还是永远应该抢最贵的头等飞机票",
+            "有时候「慢一点到达」本身就是最美的旅行",
+            "老绿皮车上面没有空调冬天绝对不要尝试乘坐"
+          ],
+          "optionsPinyin": [
+            "Yǐhòu bùguǎn qù nǎ háishi yǒngyuǎn yīnggāi qiǎng zuì guì de tóuděng fēijīpiào",
+            "Yǒushíhou \"màn yìdiǎn dàodá\" běnshēn jiùshì zuì měi de lǚxíng",
+            "Lǎo lǜpíchē shàngmiàn méiyǒu kōngtiáo dōngtiān juéduì búyào chángshì chéngzuò"
+          ],
+          "optionsRu": [
+            "Нужно всегда летать первым классом",
+            "Иногда сам процесс — «прибыть чуть медленнее» — и есть самая красивая часть путешествия",
+            "Зимой старые поезда запрещены"
           ],
           "correctIndex": 1,
-          "explanation": "「慢一点到达」本身就是最美的旅行."
+          "explanation": "Когда никуда не несёшься сломя голову, сама дорога становится отдыхом."
         }
       ]
     },
@@ -1597,34 +2195,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Сколько стоит поездка на старом маршруте?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "10 юаней",
             "2 юаня",
             "5 юаней"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "两块钱的车票."
         },
         {
+          "lang": "ru",
           "question": "Что больше всего помогает почувствовать живой характер города?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Местная еда в аэропорту",
             "Живая речь местных жителей на диалекте и обычные улицы за окном",
             "Высотные торговые центры"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "大爷大妈用亲切的方言聊家常 + 穿过老居民区."
         },
         {
-          "question": "Когда автор выходит из трамвая?",
+          "lang": "zh",
+          "question": "去陌生城市旅行下了飞机，作者最喜欢先用两块钱做什么「接地气」体验？",
+          "questionPinyin": "Qù mòshēng chéngshì lǚxíng xià le fēijī, zuòzhě zuì xǐhuan xiān yòng liǎng kuài qián zuò shénme \"jiē dìqì\" tǐyàn?",
+          "questionRu": "Какой бюджетный способ почувствовать душу незнакомого города сразу после прилёта предпочитает автор?",
           "options": [
-            "Строго на конечной",
-            "На любой остановке, где что-то приглянется за окном",
-            "Через три остановки"
+            "直接打车让司机带她绕着最新大商场和机场转三圈",
+            "花两块钱买一张纸质旅游地图蹲在商业街口背下来",
+            "找古老公交或百年有轨电车挑靠窗座从起点坐到终点"
+          ],
+          "optionsPinyin": [
+            "Zhíjiē dǎchē ràng sījī dài tā ràozhe zuìxīn dà shāngchǎng hé jīchǎng zhuàn sān quān",
+            "Huā liǎng kuài qián mǎi yì zhāng zhǐzhì lǚyóu dìtú dūn zài shāngyèjiēkǒu bèi xiàlai",
+            "Zhǎo gǔlǎo gōngjiāo huò bǎinián yǒuguǐ diànchē tiāo kàochuāng zuò cóng qǐdiǎn zǒudào zhōngdiǎn"
+          ],
+          "optionsRu": [
+            "Взять такси вокруг торговых центров",
+            "Учить бумажную карту на углу",
+            "Сесть у окна в самый старый маршрут автобуса или трамвая и проехать его от первой до конечной остановки"
+          ],
+          "correctIndex": 2,
+          "explanation": "Двухъюаневый билет проводит через старые дворы, утренние рынки, ворота вузов и тенистые бульвары под гомон местных на диалекте (聊家常)."
+        },
+        {
+          "lang": "zh",
+          "question": "坐着老电车往外看时，一旦看到哪个路边细节「特别合眼缘」，作者怎么灵活安排？",
+          "questionPinyin": "Zuòzhe lǎo diànchē wǎngwài kàn shí, yídàn kàndào nǎ ge lùbiān xìjié \"tèbié hé yǎnyuán\", zuòzhě zěnme línghuó ānpái?",
+          "questionRu": "Как поступает автор, если через окно трамвая ей приглянется красивая улочка с платанами или пекарня?",
+          "options": [
+            "一定硬憋着坐到终点站绝不中途下车",
+            "随时直接下车走走逛逛",
+            "在窗玻璃上赶紧拍照然后再也不用管了"
+          ],
+          "optionsPinyin": [
+            "Yídìng yìng biēzhe zuòdào zhōngdiǎnzhàn jué bù zhōngtú xiàchē",
+            "Suíshí zhíjiē xiàchē zǒuzou guàngguàng",
+            "Zài chuāng bōli shàng gǎnkuài pāizhào ránhòu zài yě búyòng guǎn le"
+          ],
+          "optionsRu": [
+            "Едет строго до конечной",
+            "Спонтанно выходит именно на этой остановке побродить",
+            "Только фотографирует через стекло"
           ],
           "correctIndex": 1,
-          "explanation": "看到哪一站特别眼缘，就随时下车."
+          "explanation": "Такие спонтанные высадки оказываются интереснее десяти страниц путеводителей."
         }
       ]
     },
@@ -1713,34 +2357,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "С кем ходила автор в поход?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Одна с гидом",
             "С тремя однокурсниками по университету",
             "С коллегами"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "约了三个大学同学."
         },
         {
+          "lang": "ru",
           "question": "Что они сделали, когда в горах пропала связь?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Вернулись назад",
             "Спокойно убрали телефоны в рюкзаки и слушали лес",
             "Пытались поймать сеть на дереве"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "索性把手机放进包里，专心听风吹树叶的声音."
         },
         {
-          "question": "Что они ели на привале у ручья?",
+          "lang": "zh",
+          "question": "走入近郊秋林山谷深处以后发现手机几乎零信号，四个大学同学怎么应对？",
+          "questionPinyin": "Zǒurù jìnjiāo qiūlín shāngǔ shēnchù yǐhòu fāxiàn shǒujī jīhū líng xìnhào, sì ge dàxué tóngxué zěnme yìngduì?",
+          "questionRu": "Как четверо друзей отреагировали, когда в глубине осеннего лесного ущелья пропала мобильная связь?",
           "options": [
-            "Сэндвичи",
-            "Рисовые колобки, мандарины и горячий чёрный чай",
-            "Печенье и сок"
+            "立刻着急掉头下山跑回大马路找无线信号发消息",
+            "每个人在原地举着手机转圈找了整整两个小时信号",
+            "索性把手机收包里，专心听风吹落叶沙沙声"
           ],
-          "correctIndex": 1,
-          "explanation": "饭团、橘子和热红茶."
+          "optionsPinyin": [
+            "Lìkè zháojí diàotóu xiàshān pǎohuí dà mǎlù zhǎo wúxiàn xìnhào fā xiāoxi",
+            "Měi ge rén zài yuándì jǔzhe shǒujī zhuànquān zhǎo le zhěngzhěng liǎng ge xiǎoshí xìnhào",
+            "Suǒxìng bǎ shǒujī shōu bāolǐ, zhuānxīn tīng fēng chuī luòyè shāshāshēng"
+          ],
+          "optionsRu": [
+            "В панике бросили прогулку и побежали к трассе",
+            "Два часа ловили сигнал на дереве",
+            "Спокойно убрали телефоны в рюкзаки (索性) и наслаждались шелестом листвы и ветром"
+          ],
+          "correctIndex": 2,
+          "explanation": "Пологая тропа по мягким опавшим листьям подошла всем, а отсутствие сети помогло по-настоящему отдохнуть."
+        },
+        {
+          "lang": "zh",
+          "question": "中午停在溪边大石头休息时，他们拿出了哪些比餐厅大餐还要香的自带食物？",
+          "questionPinyin": "Zhōngwǔ tíng zài xībiān dà shítou xiūxi shí, tāmen náchū le nǎxiē bǐ cāntīng dàcān hái yào xiāng de zìdài shíwù?",
+          "questionRu": "Какой походный обед они разделили на большом валуне у ручья в полдень?",
+          "options": [
+            "各自背来的饭团、橘子和热红茶",
+            "提前从市中心现买的十个大生日草莓蛋糕",
+            "两桶辣味小龙虾加上冰冻黑啤和火锅底料"
+          ],
+          "optionsPinyin": [
+            "Gèzì bēilái de fàntuán, júzi hé rè hóngchá",
+            "Tíqián cóng shìzhōngxīn xiànmǎi de shí ge dà shēngrì cǎoméi dàngāo",
+            "Liǎng tǒng làwèi xiǎolóngxiā jiāshàng bīngdòng hēipí hé huǒguō dǐliào"
+          ],
+          "optionsRu": [
+            "Онигири, мандарины и горячий красный чай в термосах",
+            "Десять клубничных тортов",
+            "Раки с пивом и хот-потом"
+          ],
+          "correctIndex": 0,
+          "explanation": "Слегка ноющие вечером ноги и лёгкие, полные горного кислорода, сделали эти выходные идеальными!"
         }
       ]
     },
@@ -1829,34 +2519,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Что сделала автор со своим телефоном?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Скачала пять словарей",
             "Переключила язык интерфейса на китайский",
             "Скрыла все уведомления"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "调成中文界面."
         },
         {
+          "lang": "ru",
           "question": "За сколько дней она запомнила кнопки «设置», «保存» и «取消»?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "За неделю",
             "Меньше чем за три дня",
             "За месяц"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "不到三天就全认熟了."
         },
         {
-          "question": "Что она слушает в метро для практики?",
+          "lang": "zh",
+          "question": "把天天看一百遍的手机系统界面和常用软件调成中文后，大约多久就认熟「设置」「保存」「取消」？",
+          "questionPinyin": "Bǎ tiāntiān kàn yìbǎi biàn de shǒujī xìtǒng jièmiàn hé chángyòng ruǎnjiàn tiáochéng Zhōngwén hòu, dàyuē duōjiǔ jiù rènshú \"shèzhì\" \"bǎocún\" \"qǔxiāo\"?",
+          "questionRu": "За сколько дней, по опыту автора, запоминаются базовые кнопки интерфейса вроде 设置, 保存, 取消 после переключения телефона на китайский?",
           "options": [
-            "Быстрый рэп",
-            "Мелодичные песни с чёткой дикцией и разобранным припевом",
-            "Аудионовости"
+            "硬背了一整年依然每次都点错",
+            "第一天看完五分钟以后立刻全部倒背如流",
+            "不到三天就全认熟了"
           ],
-          "correctIndex": 1,
-          "explanation": "咬字清晰的中文抒情歌，查清楚副歌那几句意思."
+          "optionsPinyin": [
+            "Yìngbèi le yì zhěng nián yīrán měi cì dōu diǎncuò",
+            "Dì yī tiān kànwán wǔ fēnzhōng yǐhòu lìkè quánbù dàobèi-rúliú",
+            "Búdào sān tiān jiù quán rènshú le"
+          ],
+          "optionsRu": [
+            "Целый год не запоминались",
+            "Выучились за пять минут",
+            "Меньше чем за три дня — ведь нажимаешь их по десятки раз в сутки"
+          ],
+          "correctIndex": 2,
+          "explanation": "В отличие от сухой зубрёжки (正襟危坐), интерфейс смартфона учится сам собой безо всяких усилий (零负担)."
+        },
+        {
+          "lang": "zh",
+          "question": "除了改手机界面语言外，坐地铁时他还用什么轻松方法不知不觉多记三十词？",
+          "questionPinyin": "Chúle gǎi shǒujī jièmiàn yǔyán wài, zuò dìtiě shí tā hái yòng shénme qīngsōng fāngfǎ bùzhī-bùjué duō jì sānshí cí?",
+          "questionRu": "Какой второй «ненапряжный» способ автор применяет в метро с наушниками?",
+          "options": [
+            "在地铁车厢里大声朗读十页中文法律厚词典",
+            "把所有地铁站广告牌逐字手抄进手机备忘录",
+            "单曲循环一两首咬字清晰的抒情歌并查清副歌那几句意思"
+          ],
+          "optionsPinyin": [
+            "Zài dìtiě chēxiāng lǐ dàshēng lǎngdú shí yè Zhōngwén fǎlǜ hòu cídiǎn",
+            "Bǎ suǒyǒu dìtiězhàn guǎnggàopái zhúzì shǒuchāo jìn shǒujī bèiwànglù",
+            "Dānqǔ xúnhuán yì liǎng shǒu yǎozì qīngxi de shūqínggē bìng cháqīng fùgē nà jǐ jù yìsi"
+          ],
+          "optionsRu": [
+            "Вслух читает юридический словарь",
+            "Переписывает всю рекламу на станциях",
+            "Ставит на повтор 1–2 чётких лирических песни и разбирает смысл строк припева"
+          ],
+          "correctIndex": 2,
+          "explanation": "Разобрать припев красивой песни на повторе (单曲循环) куда эффективнее скучных списков."
         }
       ]
     },
@@ -1945,34 +2681,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Какое предложение с «把» построено правильно?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "我把茶喝",
             "我把茶喝完了",
             "我把没茶喝"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "Глагол обязан иметь результат: 喝完了."
         },
         {
+          "lang": "ru",
           "question": "Где в предложении ставятся «没» и «想»?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "После глагола",
             "Прямо перед «把»",
             "В самом конце"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "一定要放在「把」字最前面."
         },
         {
-          "question": "Что значит «拦路虎»?",
+          "lang": "zh",
+          "question": "帖子里纠正「我把作业写」错在哪里，为什么这样不能直接结束？",
+          "questionPinyin": "Tiězi lǐ jiūzhèng \"wǒ bǎ zuòyè xiě\" cuò zài nǎlǐ, wèishénme zhèyàng bù néng zhíjiē jiéshù?",
+          "questionRu": "Почему грамматически неверна фраза «我把作业写» и как её нужно исправить?",
           "options": [
-            "Опасный зверь",
-            "Трудное препятствие на пути к цели",
-            "Сложный иероглиф"
+            "动词后不能光秃秃结束，必须带结果/方向或「了」（如「写完了」）",
+            "因为必须先把「写」字放在「把」的前面才符合语序",
+            "因为「作业」这个词绝对不能作为动作对象放进把字句里"
+          ],
+          "optionsPinyin": [
+            "Dòngcí hòu bù néng guāng tūtū jiéshù, bìxū dài jiéguǒ/fāngxiàng huò \"le\" (rú \"xiěwán le\")",
+            "Yīnwèi bìxū xiān bǎ \"xiě\" zì fàng zài \"bǎ\" de qiánmiàn cái fúhé yǔxù",
+            "Yīnwèi \"zuòyè\" zhè ge cí juéduì bù néng zuòwéi dòngzuò duìxiàng fàngjìn bǎzìjù lǐ"
+          ],
+          "optionsRu": [
+            "Глагол после 把 нельзя оставлять «голым» — требуется результат, направление или 了 (например, 写完了)",
+            "Глагол должен стоять перед 把",
+            "Слово «домашнее задание» нельзя ставить в 把-конструкцию"
+          ],
+          "correctIndex": 0,
+          "explanation": "Золотое правило конструкции с предлогом 把: сначала взял объект, затем действие Обязательно с итогом (完 / 放在桌子上 / 了)."
+        },
+        {
+          "lang": "zh",
+          "question": "如果句子里需要加上「没」「想」「要」这类词时，必须放在「把」字句的哪个位置？",
+          "questionPinyin": "Rúguǒ jùzi lǐ xūyào jiāshàng \"méi\" \"xiǎng\" \"yào\" zhè lèi cí shí, bìxū fàng zài \"bǎ\" zì jù de nǎ ge wèizhi?",
+          "questionRu": "Куда в предложении с 把 обязательно ставятся отрицание 没 или модальные слова 想, 要?",
+          "options": [
+            "必须全部放在动词结束后的最后一字后面",
+            "老老实实放在「把」字最前面（比如「我没把伞带走」）",
+            "一定要夹在「把」和物体名词中间显得更礼貌"
+          ],
+          "optionsPinyin": [
+            "Bìxū quánbù fàng zài dòngcí jiéshù hòu de zuìhòu yí zì hòumiàn",
+            "Lǎolǎoshíshí fàng zài \"bǎ\" zì zuì qiánmiàn (bǐrú \"wǒ méi bǎ sǎn dàizǒu\")",
+            "Yídìng yào jiā zài \"bǎ\" hé wùtǐ míngcí zhōngjiān xiǎnde gèng lǐmào"
+          ],
+          "optionsRu": [
+            "В самом конце фразы",
+            "Строго впереди перед словом 把 (например, 我没把…… / 我想把……)",
+            "Между 把 и объектом"
           ],
           "correctIndex": 1,
-          "explanation": "Образное название серьёзного препятствия."
+          "explanation": "Все отрицания и модальные глаголы послушно идут ДО 把 — это снимает путаницу на HSK 3–4!"
         }
       ]
     },
@@ -2061,34 +2843,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Как нужно повторять за диктором в методе «тени»?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Сначала дослушать до конца",
             "Говорить вслух с задержкой на полтакта прямо поверх аудио",
             "Читать шёпотом"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "晚半拍跟着出声."
         },
         {
+          "lang": "ru",
           "question": "На что нужно обращать особое внимание?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Только на скорость",
             "На паузы, лёгкие тоны и интонацию",
             "На каждое незнакомое слово"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "模仿原声里哪里停顿、哪里轻读."
         },
         {
-          "question": "Что советует автор после повтора?",
+          "lang": "zh",
+          "question": "使用软件音频练习「影子跟读法」时，正确的节奏要求是什么？",
+          "questionPinyin": "Shǐyòng ruǎnjiàn yīnpín liànxí \"yǐngzi gēndúfǎ\" shí, zhèngquè de jiézòu yāoqiú shì shénme?",
+          "questionRu": "На что нужно делать главный упор при «теневом повторении» (影子跟读) за аудиозаписью?",
           "options": [
-            "Забыть и идти дальше",
-            "Записать свой голос на телефон и сравнить с оригиналом",
-            "Переписать текст"
+            "务必比原声早一秒抢在播音员之前先大声背出来",
+            "只需要默念汉字意思，不用开口也无需对比录音",
+            "晚半拍像影子般跟出声，重点学停顿、轻读和连读不抢速度"
+          ],
+          "optionsPinyin": [
+            "Wùbì bǐ yuánshēng zǎo yì miǎo qiǎng zài bōyīnyuán zhīqián xiān dàshēng bèi chūlai",
+            "Zhǐ xūyào mòniàn Hànzì yìsi, búyòng kāikǒu yě wúxū duìbǐ lùyīn",
+            "Wǎn bàn pāi xiàng yǐngzi bān gēn chūshēng, zhòngdiǎn xué tíngdùn, qīngdú hé liándú bù qiǎng sùdù"
+          ],
+          "optionsRu": [
+            "Опережать диктора на секунду",
+            "Читать строго про себя",
+            "Повторять чуть с задержкой в пол-такта и точно ловить паузы, лёгкие тоны и слияния слогов, а не гнаться за скоростью"
+          ],
+          "correctIndex": 2,
+          "explanation": "После двух предварительных прослушиваний с текстом задержка в пол-такта (晚半拍) убирает «деревянность» речи (硬邦邦)."
+        },
+        {
+          "lang": "zh",
+          "question": "除了晚半拍跟着出声外，他每天坚持十分钟还用手机顺便做哪步对比？",
+          "questionPinyin": "Chúle wǎn bàn pāi gēnzhe chūshēng wài, tā měitiān jiānchí shí fēnzhōng hái yòng shǒujī shùnbiàn zuò nǎ bù duìbǐ?",
+          "questionRu": "Какой важный шаг самопроверки автор делает через телефон во время этого 10-минутного упражнения?",
+          "options": [
+            "打开拍照功能对着镜子检查自己穿的衣服颜色",
+            "把自己的跟读录下来并放回原音对比听一遍",
+            "发给十个陌生网友让他们投票谁念得更好笑"
+          ],
+          "optionsPinyin": [
+            "Dǎkāi pāizhào gōngnéng duìzhe jìngzi jiǎnchá zìjǐ chuān de yīfu yánsè",
+            "Bǎ zìjǐ de gēndú lù xiàlai bìng fànghuí yuányīn duìbǐ tīng yí biàn",
+            "Fāgěi shí ge mòshēng wǎngyǒu ràng tāmen tóupiào shéi niàn de gèng hǎoxiào"
+          ],
+          "optionsRu": [
+            "Проверяет внешность на камеру",
+            "Записывает свой голос и сразу сравнивает воспроизведение с эталоном",
+            "Отправляет запись случайным людям"
           ],
           "correctIndex": 1,
-          "explanation": "用自己的手机录下来对比原音听一遍."
+          "explanation": "Сравнение собственной записи с диктором быстро выровняло тоны — даже друзья заметили прогресс."
         }
       ]
     },
@@ -2177,34 +3005,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Какое слово обычно выражает лёгкое недовольство текущей ситуацией?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "稍微",
             "有点儿",
             "一点儿"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "「有点儿」往往用在让人不太满意的评价前面."
         },
         {
+          "lang": "ru",
           "question": "Как вежливо попросить подождать минутку?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "等有点儿",
             "稍微等一下",
             "有点儿等"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "「稍微」用来提温和的建议，常配「一下」."
         },
         {
-          "question": "Выберите правильную пару слов для фразы «Кофе сладковат, сделай чуть менее сладким»:",
+          "lang": "zh",
+          "question": "按照文章给的「脾气区分法」，「今天有点儿冷」为什么不能用「稍微」？",
+          "questionPinyin": "Ànzhào wénzhāng gěi de \"píqi qūfēnfǎ\", \"jīntiān yǒudiǎnr lěng\" wèishénme bù néng yòng \"shāowēi\"?",
+          "questionRu": "Почему в фразе «сегодня чуточку прохладно» (今天有点儿冷) правильно ставить 有点儿, а не 稍微?",
           "options": [
-            "咖啡有点儿甜，稍微少加一点儿糖",
-            "咖啡稍微甜，有点儿少糖",
-            "咖啡一点儿甜"
+            "「稍微」这个词在现代中国年轻人平时绝对不会说",
+            "「有点儿」用在描述现状、尤其是不太满意或偏负面评价前",
+            "「有点儿」只能用在描写冬天或下雨的句子里"
           ],
-          "correctIndex": 0,
-          "explanation": "有点儿甜 (констатация минуса), 稍微少加一点儿糖 (просьба изменить)."
+          "optionsPinyin": [
+            "\"Shāowēi\" zhè ge cí zài xiàndài Zhōngguó niánqīngrén píngshí juéduì bú huì shuō",
+            "\"Yǒudiǎnr\" yòng zài miáoshù xiànzhuàng, yóuqí shì bú tài mǎnyì huò piān fùmiàn píngjià qián",
+            "\"Yǒudiǎnr\" zhǐ néng yòng zài miáoxiě dōngtiān huò xiàyǔ de jùzi lǐ"
+          ],
+          "optionsRu": [
+            "Молодёжь не употребляет 稍微",
+            "Потому что 有点儿 ставится перед прилагательным при оценке уже существующей ситуации (часто с оттенком недовольства)",
+            "有点儿 бывает только про погоду"
+          ],
+          "correctIndex": 1,
+          "explanation": "Запомнить просто: 有点儿 жалуется/констатирует («кофе немного сладковат»), а 稍微 + глагол/一点儿 вежливо просит или смягчает изменение!"
+        },
+        {
+          "lang": "zh",
+          "question": "想跟奶茶店老板温和提建议「请做稍微甜一点儿」，或者跟朋友说「稍微等一下」，这里用「稍微」表达什么语气？",
+          "questionPinyin": "Xiǎng gēn nǎichádiàn lǎobǎn wēnhé tí jiànyì \"qǐng zuò shāowēi tián yìdiǎnr\", huòzhě gēn péngyou shuō \"shāowēi děng yíxià\", zhèlǐ yòng \"shāowēi\" biǎodá shénme yǔqì?",
+          "questionRu": "В каких двух конструкциях чаще всего проявляется «позитивный характер» слова 稍微?",
+          "options": [
+            "用来比较两座不同城市大小完全相反的区别",
+            "表示非常生气抱怨刚才做的那杯茶已经完全糊了",
+            "商量调整或者提温和建议，后面常跟「一点儿」或「一下」"
+          ],
+          "optionsPinyin": [
+            "Yònglái bǐjiào liǎng zuò bùtóng chéngshì dàxiǎo wánquán xiāngfǎn de qūbié",
+            "Biǎoshì fēicháng shēngqì bàoyuàn gāngcái zuò de nà bēi chá yǐjīng wánquán hú le",
+            "Shāngliang tiáozhěng huòzhě tí wēnhé jiànyì, hòumiàn cháng gēn \"yìdiǎnr\" huò \"yíxià\""
+          ],
+          "optionsRu": [
+            "Сравнение двух городов",
+            "Резкая жалоба на испорченный заказ",
+            "Мягкая просьба об изменении или согласовании, обычно с хвостиками 一点儿 или 一下"
+          ],
+          "correctIndex": 2,
+          "explanation": "Как только разделишь «оценка ситуации (有点儿)» и «мягкое действие/настройка (稍微……一点儿/一下)», на экзамене не ошибёшься."
         }
       ]
     },
@@ -2293,34 +3167,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Почему список слов «от А до Я» плохо запоминается?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Шрифт мелкий",
             "У голого перевода нет живого образа и контекста",
             "Слова слишком длинные"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "大脑根本找不到能记住它的画面感."
         },
         {
+          "lang": "ru",
           "question": "Что лучше делать сразу при встрече с незнакомым словом в тексте?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Сразу закрыть пост",
             "Сперва постараться догадаться о смысле по соседним фразам",
             "Записать иероглиф десять раз"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "顺着前后句子猜大概意思."
         },
         {
-          "question": "Что помогает закрепить слова через три дня?",
+          "lang": "zh",
+          "question": "打开词书从A背到Z往往越背越挫败，帖子里指出的原因是什么？",
+          "questionPinyin": "Dǎkāi císhū cóng A bèi dào Z wǎngwǎng yuè bèi yuè cuòbài, tiězi lǐ zhǐchū de yuányīn shì shénme?",
+          "questionRu": "Почему зубрёжка длинного алфавитного словаря от A до Z обычно проваливается?",
           "options": [
-            "Повторно прослушать их в озвучке",
-            "Перевести на английский",
-            "Читать всё заново с начала"
+            "因为单词表里收录的词全都是古代文学不需要用的",
+            "孤零零汉字加干巴巴翻译没有情景，大脑找不到画面感",
+            "因为字典纸张太白在太阳下面容易反光伤害眼睛"
           ],
-          "correctIndex": 0,
-          "explanation": "三天后再听一遍音频复习."
+          "optionsPinyin": [
+            "Yīnwèi dāncíbiǎo lǐ shōulù de cí quán dōu shì gǔdài wénxué bù xūyào yòng de",
+            "Gūlínglíng Hànzì jiā gānbābā fānyì méiyǒu qíngjǐng, dànǎo zhǎo bu dào huàmiàngǎn",
+            "Yīnwèi zìdiǎn zhǐzhāng tài bái zài tàiyáng xiàmiàn róngyì fǎnguāng shānghài yǎnjing"
+          ],
+          "optionsRu": [
+            "Все слова там устаревшие",
+            "Одинокий иероглиф с сухим переводом лишён жизненного образа и эмоций, мозгу не за что зацепиться",
+            "Белая бумага сильно бликует"
+          ],
+          "correctIndex": 1,
+          "explanation": "Зато в короткой истории про готовку или поездку слово сразу обретает характер, интонацию и зрительный контекст."
+        },
+        {
+          "lang": "zh",
+          "question": "每天读短帖子遇到不认识的生词，文中推荐哪三步把「死词」变成「活表达」？",
+          "questionPinyin": "Měitiān dú duǎn tiězi yùdào bú rènshi de shēngcí, wénzhōng tuījiàn nǎ sān bù bǎ \"sǐcí\" biànchéng \"huó biǎodá\"?",
+          "questionRu": "Какой трёхшаговый цикл работы с незнакомым словом в живых текстах предлагает пост?",
+          "options": [
+            "看懂一个立刻暂停 → 手抄三十遍 → 半年以后再回头看",
+            "顺着上下文猜意思 → 读完收藏进词本 → 三天后听音频复习",
+            "跳过不认识的所有句子 → 只挑最简单三行大声读完睡觉"
+          ],
+          "optionsPinyin": [
+            "Kàndǒng yí ge lìkè zàntíng -> shǒuchāo sānshí biàn -> bànnián yǐhòu zài huítóu kàn",
+            "Shùnzhe shàngxiàwén cāi yìsi -> dúwán shōucáng jìn cíběn -> sān tiān hòu tīng yīnpín fùxí",
+            "Tiàoguò bú rènshi de suǒyǒu jùzi -> zhǐ tiāo zuì jiǎndān sān xíng dàshēng dúwán shuìjiào"
+          ],
+          "optionsRu": [
+            "На каждом слове ставить паузу и писать по 30 раз",
+            "Сначала догадаться по контексту → после чтения добавить в свой словарик → через три дня переслушать аудио",
+            "Пропускать трудные предложения целиком"
+          ],
+          "correctIndex": 1,
+          "explanation": "Этот точный цикл идеально совпадает с механикой нашего Mochi Shu!"
         }
       ]
     },
@@ -2409,34 +3329,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Сколько лет автор носила свои коричневые лоферы?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Два года",
             "Четыре года",
             "Один сезон"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "穿了四年的棕色牛皮乐福鞋."
         },
         {
+          "lang": "ru",
           "question": "За что её похвалил пожилой мастер?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "За редкую марку обуви",
             "За то, что старая кожаная обувь так чисто начищена",
             "За чаевые"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "把鞋子擦得亮晶晶的年轻人真不多见."
         },
         {
-          "question": "Сколько стоил ремонт?",
+          "lang": "zh",
+          "question": "穿了四年的棕色牛皮乐福鞋鞋底有点开胶了，为什么摆摊二十多年的修鞋爷爷看到鞋子立刻笑着夸她？",
+          "questionPinyin": "Chuān le sì nián de zōngsè niúpí lèfúxié xiédǐ yǒudiǎn kāijiāo le, wèishénme bǎitān èrshí duō nián de xiūxié yéye kàndào xiézi lìkè xiàozhe kuā tā?",
+          "questionRu": "За что старый мастер по ремонту обуви сразу похвалил девушку, принесшую четырёхлетние лоферы с отклеившейся подошвой?",
           "options": [
-            "50 юаней",
-            "15 юаней",
-            "30 юаней"
+            "夸现在把老皮鞋保养擦得这么亮晶晶的年轻人真不多见",
+            "夸她的鞋带系成了非常漂亮的蝴蝶结款式",
+            "夸她今天挑选的新鞋盒比原来买的还要漂亮"
           ],
-          "correctIndex": 1,
-          "explanation": "总共只收了我十五块钱."
+          "optionsPinyin": [
+            "Kuā xiànzài bǎ lǎo píxié bǎoyǎng cā de zhème liàngjīngjīng de niánqīngrén zhēn bù duōjiàn",
+            "Kuā tā de xiédài jìchéng le fēicháng piàoliang de húdiéjié kuǎnshì",
+            "Kuā tā jīntiān tiāoxuǎn de xīn xiéhé bǐ yuánlái mǎi de hái yào piàoliang"
+          ],
+          "optionsRu": [
+            "Удивился и похвалил, как бережно и до блеска она ухаживает за кожаной обувью — в наши дни так берегут немногие",
+            "За красивый бантик на шнурках",
+            "За новую коробку"
+          ],
+          "correctIndex": 0,
+          "explanation": "Вещь, которая удобно сидит на ноге (跟脚), заслуживает бережного ухода, а не моментальной замены."
+        },
+        {
+          "lang": "zh",
+          "question": "头发花白的修鞋爷爷仔细涂胶压紧并给她鞋跟换了耐磨小垫片，一共收了多少钱？",
+          "questionPinyin": "Tóufa huābái de xiūxié yéye zǐxì tújiāo yājǐn bìng gěi tā xiégēn huàn le nàimó xiǎo diànpiàn, yígòng shōu le duōshao qián?",
+          "questionRu": "Сколько мастер взял за проклейку подошвы и замену набоек на каблуках?",
+          "options": [
+            "总共只收了十五块钱",
+            "一共收费一百二十块钱",
+            "分文未收免费送给她新鞋垫"
+          ],
+          "optionsPinyin": [
+            "Zǒnggòng zhǐ shōu le shíwǔ kuài qián",
+            "Yígòng shōufèi yìbǎi èrshí kuài qián",
+            "Fēnwén wèi shōu miǎnfèi sònggěi tā xīn xiédiàn"
+          ],
+          "optionsRu": [
+            "Всего 15 юаней",
+            "120 юаней",
+            "Ничего не взял"
+          ],
+          "correctIndex": 0,
+          "explanation": "Всего за 15 юаней любимые туфли снова как новые — «любить и беречь вещи» (惜物爱物) невероятно тепло на душе."
         }
       ]
     },
@@ -2525,34 +3491,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Где сидит рыжий кот вечерами?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "На витрине с хлебом",
             "На тёплой подушке прямо у кассы",
             "У входной двери на улице"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "趴在收银台旁边的温暖垫子上."
         },
         {
+          "lang": "ru",
           "question": "Как кот реагирует, когда покупатели его гладят?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Прячется под стол",
             "Жмурится и мурчит",
             "Просит еду"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "眯起眼睛打呼噜."
         },
         {
-          "question": "Что значит сленг «撸猫»?",
+          "lang": "zh",
+          "question": "楼下便利店的胖橘猫「阿橘」每天几点钟最忙的时候准时趴在收银台旁「上班」？",
+          "questionPinyin": "Lóuxià biànlìdiàn de pàng júmāo \"Ā Jú\" měitiān jǐ diǎnzhōng zuì máng de shíhou zhǔnshí pā zài shōuyíntái páng \"shàngbān\"?",
+          "questionRu": "В какое время дня упитанный рыжий кот-директор «А Цзюй» неизменно заступает на смену у кассы в магазине?",
           "options": [
-            "Кормить бездомных котов",
-            "С удовольствием гладить и тискать кошку",
-            "Фотографировать питомца"
+            "每天凌晨三点整店里空无一人的时候",
+            "每天中午十二点外面太阳最晒的时候",
+            "每天晚上七点半下班人最多的时候"
           ],
-          "correctIndex": 1,
-          "explanation": "Гладить и тискать кота ради удовольствия."
+          "optionsPinyin": [
+            "Měitiān língchén sān diǎn zhěng diànlǐ kōngwú-yìrén de shíhou",
+            "Měitiān zhōngwǔ shí'èr diǎn wàimiàn tàiyáng zuì shài de shíhou",
+            "Měitiān wǎnshang qī diǎn bàn xiàbān rén zuì duō de shíhou"
+          ],
+          "optionsRu": [
+            "В три часа ночи",
+            "В полдень в жару",
+            "Ровно в 19:30, в самый пик потока соседей после работы"
+          ],
+          "correctIndex": 2,
+          "explanation": "Этот упитанный пушистый «золотой сотрудник» (金牌员工) ждёт поглаживаний на тёплой подушке у самой кассы."
+        },
+        {
+          "lang": "zh",
+          "question": "为什么好几个刚下晚班累得没精神的年轻人专门多绕两步进便利店买一瓶水？",
+          "questionPinyin": "Wèishénme hǎojǐ ge gāng xià wǎnbān lèi de méi jīngshén de niánqīngrén zhuānmén duō rào liǎng bù jìn biànlìdiàn mǎi yì píng shuǐ?",
+          "questionRu": "Зачем уставшие молодые соседи специально делают лишний крюк вечером в этот магазин за бутылкой воды?",
+          "options": [
+            "主要为了顺便伸手摸摸、撸两把可爱的阿橘回回血",
+            "因为阿橘会站在收银机前面帮客人扫码找零钱",
+            "因为这家便利店晚七点半以后所有瓶装水只卖一毛钱"
+          ],
+          "optionsPinyin": [
+            "Zhǔyào wèile shùnbiàn shēnshǒu mōmo, lū liǎng bǎ kě'ài de Ā Jú huíhuixuè",
+            "Yīnwèi Ā Jú huì zhàn zài shōuyínjī qiánmiàn bāng kèrén sǎomǎ zhǎo língqián",
+            "Yīnwèi zhè jiā biànlìdiàn wǎn qī diǎn bàn yǐhòu suǒyǒu píngzhuāngshuǐ zhǐ mài yì máo qián"
+          ],
+          "optionsRu": [
+            "Чтобы заодно почесать за ушком и потискать доброго рыжего кота (撸两把猫), снимая усталость",
+            "Потому что кот сканирует штрихкоды",
+            "Из-за скидки в 90% на воду"
+          ],
+          "correctIndex": 0,
+          "explanation": "Пока очередь рассчитывается, А Цзюй блаженно щурится и мурлычет под руками каждого прохожего."
         }
       ]
     },
@@ -2641,34 +3653,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Откуда автор взяла первую веточку мяты?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Купила на рынке рассады",
             "Взяла из стакана с летним фруктовым чаем",
             "Подруга подарила"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "买水果茶的时候杯子里插了一根嫩薄荷."
         },
         {
+          "lang": "ru",
           "question": "Как автор в шутку называла себя раньше?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Садовник-новичок",
             "«Убийца растений» (植物杀手)",
             "Королева балкона"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "出了名的「植物杀手」."
         },
         {
-          "question": "Для чего она использует свежие листья с балкона сейчас?",
+          "lang": "zh",
+          "question": "去年夏天喝水果茶时她舍不得丢掉那根带叶子的嫩薄荷，随手顺便做了什么？",
+          "questionPinyin": "Qùnián xiàtiān hē shuǐguǒchá shí tā shě bu de diūdiào nà gēn dàiyèzi de nènbòhe, suíshǒu shùnbiàn zuò le shénme?",
+          "questionRu": "Откуда появилась целая пышная поляна мяты в горшке на балконе у «убийцы растений»?",
           "options": [
-            "В салаты и супы",
-            "В домашнюю лимонную воду и газировку",
-            "Сушит на подушку"
+            "把杯子里那根嫩薄荷插进了阳台的花盆土里",
+            "花两百块从云南专门买回了一箱野生大薄荷苗",
+            "天天对着茶杯里没根的薄荷叶放温柔的钢琴曲"
           ],
-          "correctIndex": 1,
-          "explanation": "做冰柠檬水或者苏打水时随时掐两片新鲜叶子."
+          "optionsPinyin": [
+            "Bǎ bēizi lǐ nà gēn nènbòhe chājìn le yángtái de huāpén tǔlǐ",
+            "Huā liǎngbǎi kuài cóng Yúnnán zhuānmén mǎihuí le yì xiāng yěshēng dà bòhemiáo",
+            "Tiāntiān duìzhe chábēi lǐ méi gēn de bòheyè fàng wēnróu de gāngqínqǔ"
+          ],
+          "optionsRu": [
+            "Из жалости просто воткнула веточку мяты из стакана фруктового чая в землю цветочного горшка",
+            "Выписала ящик рассады из Юньнани",
+            "Держала листья в стакане под классическую музыку"
+          ],
+          "correctIndex": 0,
+          "explanation": "Даже не рассчитывая на успех (毕竟 даже кактусы гибли!), она получила через месяц зелёные побеги, а весной пересадила в большой горшок."
+        },
+        {
+          "lang": "zh",
+          "question": "现在阳台长满茂盛薄荷森林以后，她平时做饮料怎么实现「免费清香」？",
+          "questionPinyin": "Xiànzài yángtái zhǎngmǎn màoshèng bòhe sēnlín yǐhòu, tā píngshí zuò yǐnliào zěnme shíxiàn \"miǎnfèi qīngxiāng\"?",
+          "questionRu": "Как теперь хозяйка ежедневно использует свой домашний «зелёный мини-лес»?",
+          "options": [
+            "把薄荷全晒干卖给小区门口的奶茶小铺换零花钱",
+            "每天拔掉一半叶子拿去煮一大锅薄荷大骨汤",
+            "做冰柠檬水或苏打水时随时掐两片新鲜叶子丢进去"
+          ],
+          "optionsPinyin": [
+            "Bǎ bòhe quán shàigān mài gěi xiǎoqū ménkǒu de nǎichá xiǎopù huàn línghuāqián",
+            "Měitiān bádiào yíbàn yèzi náqù zhǔ yí dà guō bòhe dàgǔtāng",
+            "Zuò bīng níngméngshuǐ huò sūdǎshuǐ shí suíshí qiā liǎng piàn xīnxiān yèzi diū jìnqù"
+          ],
+          "optionsRu": [
+            "Сушит мяту на продажу в киоск",
+            "Варит мясной бульон из половины куста",
+            "Когда готовит ледяную лимонную воду или содовую, прямо с куста срывает пару свежих листиков"
+          ],
+          "correctIndex": 2,
+          "explanation": "Бесплатный свежий аромат и ежедневное маленькое чудо пробивающейся жизни на балконе!"
         }
       ]
     },
@@ -2757,34 +3815,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Почему автор села не на ту ветку метро?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Сломалось табло",
             "Переписывалась в чате, когда входила на станцию",
             "Разговаривала с подругой"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "边回工作消息边进站，一不小心坐反了方向."
         },
         {
+          "lang": "ru",
           "question": "Через сколько станций она заметила ошибку?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Через две",
             "Через три",
             "На конечной"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "坐过三站发现不对劲."
         },
         {
-          "question": "Что она увидела с наземного перехода?",
+          "lang": "zh",
+          "question": "边回微信工作消息边进地铁站坐过三站发现坐反方向以后，出站一抬头东边出现了什么惊喜？",
+          "questionPinyin": "Biān huí Wēixìn gōngzuò xiāoxi biān jìn dìtiězhàn zuòguò sān zhàn fāxiàn zuòfǎn fāngxiàng yǐhòu, chūzhàn yì táitóu dōngbiān chūxiàn le shénme jīngxǐ?",
+          "questionRu": "Какой редкий подарок ждал автора наверху на надземном переходе, когда он по рассеянности проехал 3 лишних остановки в обратную сторону?",
           "options": [
-            "Салют",
-            "Яркую двойную радугу на фоне золотых облаков",
-            "Огромную луну"
+            "一道特别清晰的双彩虹加上金色夕阳映云边",
+            "意外碰见大学时代五年没见的好朋友正站在台阶上",
+            "小区楼下恰好办了一年一次的热闹灯谜中秋市集"
           ],
-          "correctIndex": 1,
-          "explanation": "挂着一道特别清晰的双彩虹."
+          "optionsPinyin": [
+            "Yí dào tèbié qīngxi de shuāng cǎihóng jiāshàng jīnsè xīyáng yìng yúnbiān",
+            "Yìwài pèngjiàn dàxué shídài wǔ nián méi jiàn de hǎo péngyou zhèng zhàn zài táijiē shàng",
+            "Xiǎoqū lóuxià qiàhǎo bàn le yì nián yí cì de rènào dēngmí Zhōngqiū shìjí"
+          ],
+          "optionsRu": [
+            "Чёткая двойная радуга на востоке, подсвеченная золотым закатом",
+            "Старый друг после пяти лет разлуки",
+            "Большая ярмарка фонарей"
+          ],
+          "correctIndex": 0,
+          "explanation": "Ехал бы он правильно в подземном тоннеле — и пропустил бы двойную радугу (双彩虹), ради которой десяток прохожих достали камеры!"
+        },
+        {
+          "lang": "zh",
+          "question": "本来懊恼又粗心多绕十五分钟路的他，从这次意外里读出了什么安慰的话？",
+          "questionPinyin": "Běnlái àonǎo yòu cūxīn duō rào shíwǔ fēnzhōng lù de tā, cóng zhè cì yìwài lǐ dúchū le shénme ānwèi de huà?",
+          "questionRu": "Какую добрую мысль вынес автор из лишних пятнадцати минут объезда?",
+          "options": [
+            "雨停之后所有换乘天桥往往比地下站台更挤更好看",
+            "工作消息永远不要等到进了地铁通道才打开手机回复",
+            "生活中偶尔的意外绕路，有时是为了带你去看更好的风景"
+          ],
+          "optionsPinyin": [
+            "Yǔ tíng zhīhòu suǒyǒu huànchéng tiānqiáo wǎngwǎng bǐ dìxià zhàntái gèng jǐ gèng hǎokàn",
+            "Gōngzuò xiāoxi yǒngyuǎn búyào děngdào jìn le dìtiě tōngdào cái dǎkāi shǒujī huífù",
+            "Shēnghuó zhōng ǒu'ěr de yìwài ràolù, yǒushí shì wèile dài nǐ qù kàn gèng hǎo de fēngjǐng"
+          ],
+          "optionsRu": [
+            "На переходах всегда тесно",
+            "Нельзя проверять чат в метро",
+            "Иногда случайный крюк в жизни случается как раз затем, чтобы показать нам более красивый пейзаж"
+          ],
+          "correctIndex": 2,
+          "explanation": "Ворчание на собственную небрежность сменилось тихой благодарностью за чудесное небо."
         }
       ]
     },
@@ -2873,34 +3977,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Чем автор помогла своей соседке накануне?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Одолжила соль",
             "Помогла поднять тяжёлую коробку посылки на третий этаж",
             "Погуляла с собакой"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "帮她把一大箱重快递搬上三楼."
         },
         {
+          "lang": "ru",
           "question": "Что висело на дверной ручке автора вечером?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Пакет яблок",
             "Баночка домашней маринованной редьки с запиской",
             "Свежие пирожки"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "挂着一罐脆爽入味的自制酱萝卜."
         },
         {
-          "question": "С чем соседка посоветовала есть эту закуску?",
+          "lang": "zh",
+          "question": "平时跟对门邻居大多只点头打招呼，昨天作者主动帮了那位阿姨什么忙？",
+          "questionPinyin": "Píngshí gēn duìmén línjū dàduō zhǐ diǎntóu dǎ zhāohu, zuótiān zuòzhě zhǔdòng bāng le nà wèi āyí shénme máng?",
+          "questionRu": "Какую соседскую помощь автор оказал пожилой соседке напротив вчера?",
           "options": [
-            "С жареным рисом",
-            "С белой кашей на завтрак",
-            "С лапшой"
+            "主动帮她一起把整条楼道的窗户全部用湿毛巾擦了一遍",
+            "借给阿姨一把备用雨伞和两袋自己刚买的绿豆",
+            "帮忙把一大箱重快递搬上三楼，顺手收好被风吹歪的鞋子"
           ],
-          "correctIndex": 1,
-          "explanation": "配早饭白粥最好."
+          "optionsPinyin": [
+            "Zhǔdòng bāng tā yìqǐ bǎ zhěng tiáo lóudào de chuānghù quánbù yòng shī máojīn cā le yí biàn",
+            "Jiègěi āyí yì bǎ bèiyòng yǔsǎn hé liǎng dài zìjǐ gāng mǎi de lǜdòu",
+            "Bāngmáng bǎ yí dà xiāng zhòng kuàidì bānshàng sān lóu, shùnshǒu shōuhǎo bèi fēng chuīwāi de xiézi"
+          ],
+          "optionsRu": [
+            "Вымыл все окна на этаже",
+            "Одолжил запасной зонт",
+            "Помог занести тяжёлую коробку с первого этажа на третий и поправил у её двери сдутые ветром тапки"
+          ],
+          "correctIndex": 2,
+          "explanation": "Простая доброта молодого соседа — донести тяжёлую посылку и подобрать обувь — не осталась незамеченной."
+        },
+        {
+          "lang": "zh",
+          "question": "第二天晚上开门回家时，阿姨在他的门把手上回礼挂了什么并写着配什么吃最好？",
+          "questionPinyin": "Dì èr tiān wǎnshang kāimén huíjiā shí, āyí zài tā de ménbǎshǒu shàng huílǐ guà le shénme bìng xiězhe pèi shénme chī zuì hǎo?",
+          "questionRu": "Что повесила тётушка на ручку двери на следующий вечер и с чем посоветовала это есть?",
+          "options": [
+            "两盒自己包好的韭菜鸡蛋蒸饺和一袋老醋",
+            "一把晒得暖呼呼的干辣椒和一大包桂花茶",
+            "一罐脆爽入味的自制酱萝卜，纸条说「配早饭白粥最好」"
+          ],
+          "optionsPinyin": [
+            "Liǎng hé zìjǐ bāohǎo de jiǔcài jīdàn zhēngjiǎo hé yí dài lǎocù",
+            "Yì bǎ shài de nuǎnhūhū de gān làjiāo hé yí dà bāo guìhuāchá",
+            "Yí guàn cuìshuǎng rùwèi de zìzhì jiàngluóbo, zhǐtiáo shuō \"pèi zǎofàn báizhōu zuì hǎo\""
+          ],
+          "optionsRu": [
+            "Паровые пельмени с джусаем",
+            "Сушёный острый перец и чай",
+            "Баночку хрустящей домашней маринованной редьки с запиской «лучше всего к утренней рисовой каше!»"
+          ],
+          "correctIndex": 2,
+          "explanation": "Человеческое тепло (人情味) в мегаполисе никуда не исчезло — оно передаётся от двери к двери маленькими добрыми знаками."
         }
       ]
     },
@@ -2989,34 +4139,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Что оказалось на самом деле с треснувшим телефоном?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Разбился экран полностью",
             "Треснуло только защитное стекло",
             "Перестала работать камера"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "只坏了钢化膜."
         },
         {
+          "lang": "ru",
           "question": "Что сделала автор в самый невезучий день дома?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "До ночи переживала",
             "Поела горячей лапши и рано легла спать",
             "Купила новый телефон"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "煮了碗热面条、早早盖被子睡觉."
         },
         {
-          "question": "Что посоветовала автор для трудных дней?",
+          "lang": "zh",
+          "question": "遇到项目反复改、手机摔地、伞骨吹断那种「喝凉水都塞牙」倒霉周，作者回家后没钻牛角尖而是干嘛？",
+          "questionPinyin": "Yùdào xiàngmù fǎnfù gǎi, shǒujī shuāidì, sǎngǔ chuīduàn nà zhǒng \"hē liángshuǐ dōu sāiyá\" dǎoméi zhōu, zuòzhě huíjiā hòu méi zuān niújiǎojiān érshì gànmá?",
+          "questionRu": "Как автор повела себя в разгар недели сплошных мелких катастроф (сломанный зонт, падение телефона, правки проекта)?",
           "options": [
-            "Больше работать",
-            "Удерживать нормальный режим сна и отдыха",
-            "Менять планы каждый час"
+            "不钻牛角尖，老老实实煮碗热面条早早盖被子睡觉",
+            "打通电话整整抱怨了一夜导致第二天起床差点发烧",
+            "连夜花四千块钱立刻去商场买了一部最新款黑手机"
           ],
-          "correctIndex": 1,
-          "explanation": "遇到糟糕的日子先稳住作息."
+          "optionsPinyin": [
+            "Bù zuān niújiǎojiān, lǎolǎoshíshí zhǔ wǎn rè miàntiáo zǎozǎo gàibèizi shuìjiào",
+            "Dǎtōng diànhuà zhěngzhěng bàoyuàn le yí yè dǎozhì dì èr tiān qǐchuáng chàdiǎn fāshāo",
+            "Liányè huā sìqiān kuài qián lìkè qù shāngchǎng mǎi le yì bù zuìxīnkuǎn hēi shǒujī"
+          ],
+          "optionsRu": [
+            "Не стала зацикливаться в мрачных мыслях — спокойно сварила горячей лапши и пораньше легла спать",
+            "Всю ночь жаловалась по телефону",
+            "Купила новый смартфон ночью"
+          ],
+          "correctIndex": 0,
+          "explanation": "«Даже у невезения есть срок годности» — главное не зацикливаться (别钻牛角尖) и беречь свой режим сна и еды."
+        },
+        {
+          "lang": "zh",
+          "question": "稳住作息睡饱觉没过两天后，原本以为坏透了的三件事竟然怎么神奇好转了？",
+          "questionPinyin": "Wěnzhù zuòxī shuìbǎo jiào méi guò liǎng tiān hòu, yuánběn yǐwéi huàitòu le de sān jiàn shì jìngrán zěnme shénqí hǎozhuǎn le?",
+          "questionRu": "Какие добрые новости пришли всего через пару дней после того, как она просто выспалась и успокоилась?",
+          "options": [
+            "领导因为天气太坏宣布全体员工回家带薪休假一整个礼拜",
+            "修伞师傅免费帮她把断掉的伞骨接好还多送了一把新雨衣",
+            "方案一次通过、手机只坏了钢化膜、朋友还送来两张话剧票"
+          ],
+          "optionsPinyin": [
+            "Lǐngdǎo yīnwèi tiānqì tài huài xuānbù quányuán gōng huíjiā dàixīn xiūjià yì zhěngge lǐbài",
+            "Xiūsǎn shīfu miǎnfèi bāng tā bǎ duàndiào de sǎngǔ jiēhǎo hái duō sòng le yì bǎ xīn yǔyī",
+            "Fāng'àn yí cì tōngguò, shǒujī zhǐ huài le gānghuàmó, péngyou hái sònglái liǎng zhāng huàjùpiào"
+          ],
+          "optionsRu": [
+            "Объявили оплачиваемый отпуск на неделю",
+            "Бесплатно починили сломанный зонт",
+            "План утвердили с первого раза, на телефоне треснуло лишь защитное стекло, а друг подарил два билета в театр"
+          ],
+          "correctIndex": 2,
+          "explanation": "Белые и чёрные полосы чередуются — сохраняешь спокойный режим, и светлая полоса уже на пороге!"
         }
       ]
     },
@@ -3105,34 +4301,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Чего ждала автор на этой неделе?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Доставки посылки",
             "Ответа по работе на почту",
             "Возвращения подруги"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "在等一份工作结果... 看看邮箱有没有新邮件."
         },
         {
+          "lang": "ru",
           "question": "Каким способом она снизила тревогу ожидания?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Побежала в парк",
             "Занялась уборкой и испекла яблочные сконы",
             "Легла спать днём"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "擦亮地面 + 亲手烤了一盘苹果肉桂司康饼."
         },
         {
-          "question": "Почему такое действие помогает успокоиться?",
+          "lang": "zh",
+          "question": "干坐着焦虑等重要工作邮件结果时，每过一小时她都忍不住查看邮箱反而更慌，于是立刻转去做了哪两件小事？",
+          "questionPinyin": "Gànzuòzhe jiāolǜ děng zhòngyào gōngzuò yóujiàn jiéguǒ shí, měiguò yì xiǎoshí tā dōu rěn bu zhù chákàn yóuxiāng fǎn'ér gèng huāng, yúshì lìkè zhuǎnqù zuò le nǎ liǎng jiàn xiǎoshì?",
+          "questionRu": "Какими двумя делами со «стопроцентным личным контролем» девушка прервала мучительное ожидание письма о работе?",
           "options": [
-            "Отвлекает телефоном",
-            "Возвращает чувство контроля в мелочах",
-            "Требует много времени"
+            "把阳台客厅地面擦亮，亲手烤一盘苹果肉桂司康饼",
+            "一口气整理出三份更完美的自我介绍重发给面试官",
+            "去小区楼下连续跳绳三千下直到浑身大汗再洗热水澡"
+          ],
+          "optionsPinyin": [
+            "Bǎ yángtái kètīng dìmiàn cāliàng, qīnshǒu kǎo yì pán píngguǒ ròuguì sīkāngbǐng",
+            "Yìkǒuqì zhěnglǐ chū sān fèn gèng wánměi de zìwǒ jièshào chóngfā gěi miànshìguān",
+            "Qù xiǎoqū lóuxià liánxù tiàoshéng sānqiān xià zhídào húnshēn dàhàn zài xǐ rèshuǐzǎo"
+          ],
+          "optionsRu": [
+            "До блеска вымыла полы в зале и испекла противень ароматных яблочно-коричных сконов",
+            "Отправила ещё три резюме",
+            "Сделала 3000 прыжков со скакалкой"
+          ],
+          "correctIndex": 0,
+          "explanation": "Когда итог от тебя не зависит, вернуть твёрдую почву под ногами помогают вещи, полностью подвластные твоим рукам (掌控感)."
+        },
+        {
+          "lang": "zh",
+          "question": "为什么啃下一口刚出炉的热苹果肉桂松饼以后，心里那股浮躁焦急一下落回地面？",
+          "questionPinyin": "Wèishénme kěnxià yì kǒu gāng chūlú de rè píngguǒ ròuguì sōngbǐng yǐhòu, xīnlǐ nà gǔ fúzào jiāojí yíxià luòhuí dìmiàn?",
+          "questionRu": "Отчего после выпечки и мытья пола тревожное ожидание сразу утихло?",
+          "options": [
+            "因为烤完松饼以后立刻收到了录用邮件所以放心了",
+            "因为做了一件百分百由自己掌控且看得到温暖结果的小事",
+            "因为刚好咬到烤焦的那一块突然觉得邮箱并不重要了"
+          ],
+          "optionsPinyin": [
+            "Yīnwèi kǎowán sōngbǐng yǐhòu lìkè shōudào le lùyòng yóujiàn suǒyǐ fàngxīn le",
+            "Yīnwèi zuò le yí jiàn bǎifēn zhī bǎi yóu zìjǐ zhǎngkòng qiě kàn de dào wēnnuǎn jiéguǒ de xiǎoshì",
+            "Yīnwèi gānghǎo yǎodào kǎojiāo de nà yí kuài tūrán juéde yóuxiāng bìng bú zhòngyào le"
+          ],
+          "optionsRu": [
+            "Тут же пришло письмо о найме",
+            "Видимый и тёплый результат собственных рук вернул чувство опоры и контроля над жизнью",
+            "Сконы подгорели и отвлекли"
           ],
           "correctIndex": 1,
-          "explanation": "找件百分之百能掌控的小事."
+          "explanation": "Не сидеть сложа руки (别干坐着) перед неизвестностью — лучший антистресс!"
         }
       ]
     },
@@ -3221,34 +4463,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Куда автор убирает телефон при разговоре с другом?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Кладёт экраном вниз",
             "Убирает в карман, чтобы слушать внимательно",
             "Ставит на виброрежим на столе"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "把手机放进口袋，不低头刷消息."
         },
         {
+          "lang": "ru",
           "question": "Как она отвечает после того, как выслушает собеседника?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Сразу рассказывает свою похожую историю",
             "Задаёт искренний вопрос по его же теме",
             "Переводит разговор на погоду"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "顺着她的话题多问一句."
         },
         {
-          "question": "Какова третья привычка из списка?",
+          "lang": "zh",
+          "question": "被老同学夸「跟你聊天总是感觉舒服安心」后，她总结第一件尊重对方的动作是什么？",
+          "questionPinyin": "Bèi lǎo tóngxué kuā \"gēn nǐ liáotiān zǒngshì gǎnjué shūfu ānxīn\" hòu, tā zǒngjié dì yī jiàn zūnzhòng duìfāng de dòngzuò shì shénme?",
+          "questionRu": "Какая первая привычка делает беседу с вами тёплой и располагающей согласно этому списку?",
           "options": [
-            "Приносить маленький десерт",
-            "Искренне замечать и хвалить усилия или образ друга",
-            "Всегда соглашаться"
+            "别人说话时把手机放进口袋不低头刷消息，表示认真听",
+            "每隔一分钟就拍拍对方肩膀不停夸赞今天的穿搭",
+            "准备小本子把朋友讲出来的每一个重要年份全记录好"
+          ],
+          "optionsPinyin": [
+            "Biérén shuōhuà shí bǎ shǒujī fàng jìn kǒudài bù dītóu shuā xiāoxi, biǎoshì rènzhēn tīng",
+            "Měigé yì fēnzhōng jiù pāipai duìfāng jiānbǎng bùtíng kuāzàn jīntiān de chuāndā",
+            "Zhǔnbèi xiǎo běnzi bǎ péngyou jiǎng chūlai de měi yí ge zhòngyào niánfèn quán jìlù hǎo"
+          ],
+          "optionsRu": [
+            "Когда собеседник говорит — убрать телефон в карман и не уткнуться в уведомления",
+            "Хлопать по плечу каждую минуту",
+            "Конспектировать даты в блокнот"
+          ],
+          "correctIndex": 0,
+          "explanation": "Дело не в таланте травить шутки: 1) убрать телефон, 2) не перебивать со своими историями (不插嘴/不打断) и спросить в продолжение темы, 3) искренне похвалить."
+        },
+        {
+          "lang": "zh",
+          "question": "总结的第三条让人开心一整晚的秘诀是什么？",
+          "questionPinyin": "Zǒngjié de dì sān tiáo ràng rén kāixīn yì zhěng wǎn de mìjué shì shénme?",
+          "questionRu": "Какой третий маленький жест в общении дарит другу улыбку на весь вечер?",
+          "options": [
+            "只聊自己小时候发生的最搞笑、最倒霉的那两件往事",
+            "真心肯定对方今天穿得好看或者最近非常努力",
+            "每次分开之前必须抢着替对方把两杯饮料全结清账单"
+          ],
+          "optionsPinyin": [
+            "Zhǐ liáo zìjǐ xiǎoshíhou fāshēng de zuì gǎoxiào, zuì dǎoméi de nà liǎng jiàn wǎngshì",
+            "Zhēnxīn kěndìng duìfāng jīntiān chuān de hǎokàn huòzhě zuìjìn fēicháng nǔlì",
+            "Měi cì fēnkāi zhīqián bìxū qiǎngzhe tì duìfāng bǎ liǎng bēi yǐnliào quán jiéqīng zhàngdān"
+          ],
+          "optionsRu": [
+            "Рассказывать только смешные истории про себя",
+            "Искренне отметить что-то хорошее — удачный наряд или старания за последнее время",
+            "Всегда оплачивать чужой напиток"
           ],
           "correctIndex": 1,
-          "explanation": "真心肯定别人今天穿得好看或者最近很努力."
+          "explanation": "Внимательное присутствие и тёплая искренняя поддержка важнее остроумия."
         }
       ]
     },
@@ -3337,34 +4625,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Отчего грустила автор, просматривая список контактов?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Потеряла номер подруги",
             "С некоторыми бывшими одногруппниками не общалась уже три года",
             "Никто не поздравил с праздником"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "已经三年没说过话了."
         },
         {
+          "lang": "ru",
           "question": "С чем автор сравнивает смену круга общения на разных этапах жизни?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "С перелистыванием книги",
             "С пассажирами одного автобуса, выходящими на своих остановках",
             "С переменой погоды"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "就像坐同一班公交车... 到了各自站台挥手下车."
         },
         {
-          "question": "Какое напутствие она даёт в конце?",
+          "lang": "zh",
+          "question": "整理手机通信录发现好几个大学上下课同学已经三年没联系了，作者拿什么巧妙比喻这种自然疏远？",
+          "questionPinyin": "Zhěnglǐ shǒujī tōngxùnlù fāxiàn hǎojǐ ge dàxué shàng-xiàkè tóngxué yǐjīng sān nián méi liánxì le, zuòzhě ná shénme qiǎomiào bǐyù zhè zhǒng zìrán shūyuǎn?",
+          "questionRu": "С чем автор мягко сравнивает «друзей одного жизненного этапа» (阶段性朋友), с которыми пути расходятся после выпуска?",
           "options": [
-            "Срочно позвонить всем старым друзьям",
-            "Ценить тёплое прошлое и открываться новым знакомствам",
-            "Удалить старые номера"
+            "就像两张互相写反了的旧明信片再也没有机会被寄出",
+            "就像坐同一班公交车热烈聊了一路，到各自站台笑着挥手下车",
+            "就像刚买来一个月就用光墨水不得不扔掉的普通黑水笔"
+          ],
+          "optionsPinyin": [
+            "Jiù xiàng liǎng zhāng hùxiāng xiěfǎn le de jiù míngxìnpiàn zài yě méiyǒu jīhuì bèi jìchū",
+            "Jiù xiàng zuò tóng yì bān gōngjiāochē rèliè liáo le yílù, dào gèzì zhàntái xiàozhe huīshǒu xiàchē",
+            "Jiù xiàng gāng mǎilái yí ge yuè jiù yòngguāng mòshuǐ bùdébù rēngdiào de pǔtōng hēi shuǐbǐ"
+          ],
+          "optionsRu": [
+            "С открытками, отправленными не туда",
+            "С пассажирами одного автобуса: душевно болтали всю дорогу, но у каждого своя остановка, где пора с улыбкой сойти",
+            "С высохшей чёрной ручкой"
           ],
           "correctIndex": 1,
-          "explanation": "带着当时的温暖继续认识现在身边的新朋友."
+          "explanation": "Не нужно винить себя, если вы уехали в разные города и отрасли (渐行渐远) — совместная дорога была тёплой и по-настоящему важной."
+        },
+        {
+          "lang": "zh",
+          "question": "想通以后，对待过去那些「阶段性朋友」和现在身边的人，作者抱什么健康心态？",
+          "questionPinyin": "Xiǎngtōng yǐhòu, duìdài guòqù nàxiē \"jiēduànxìng péngyou\" hé xiànzài shēnbiān de rén, zuòzhě bào shénme jiànkāng xīntài?",
+          "questionRu": "С каким чувством теперь автор относится к прошлым друзьям после такого переосмысления?",
+          "options": [
+            "珍惜曾认真彼此陪伴的温暖，同时继续认识身边新朋友",
+            "立刻删掉所有三年没说过话的联系人防止再次难受",
+            "逼自己这周末必须挨个给五位老同学发长语音道歉"
+          ],
+          "optionsPinyin": [
+            "Zhēnxī céng rènzhēn bǐcǐ péibàn de wēnnuǎn, tóngshí jìxù rènshi shēnbiān xīn péngyou",
+            "Lìkè shāndiào suǒyǒu sān nián méi shuōguo huà de liánxìrén fángzhǐ zàicì nánshòu",
+            "Bī zìjǐ zhè zhōumò bìxū āigè gěi wǔ wèi lǎo tóngxué fā cháng yǔyīn dàoqiàn"
+          ],
+          "optionsRu": [
+            "С благодарностью хранит память о том совместном пути и открыта новым знакомствам рядом с собой",
+            "Удаляет всех молча из контактов",
+            "Заставляет себя извиняться перед всеми"
+          ],
+          "correctIndex": 0,
+          "explanation": "Тепло того этапа остаётся с нами, даже когда маршрут продолжается уже в разных направлениях."
         }
       ]
     },
@@ -3453,34 +4787,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Как изменилась «планка счастья» у автора с возрастом?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Стала выше",
             "Стала ниже и более приземлённой",
             "Не изменилась"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "门槛反而变得越来越低、越来越实在."
         },
         {
+          "lang": "ru",
           "question": "Какая мелкая радость приведена для вечера?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Просмотр новинок кино",
             "Чистая постель после тёплого душа и спокойный сон без тревог",
             "Долгая прогулка"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "洗完热水澡钻进干净被窝，不用愁明天的事."
         },
         {
-          "question": "Что значит выражение «问心无愧»?",
+          "lang": "zh",
+          "question": "工作几年经历起起伏伏后，现在作者对「幸福门槛」的定义变得更接近哪种实在感受？",
+          "questionPinyin": "Gōngzuò jǐ nián jīnglì qǐqǐ-fúfú hòu, xiànzài zuòzhě duì \"xìngfú ménkǎn\" de dìngyì biànde gèng jiējìn nǎ zhǒng shízài gǎnshòu?",
+          "questionRu": "Как с годами работы и жизненных перемен снизился «порог счастья» (幸福门槛) у автора?",
           "options": [
-            "Очень волноваться",
-            "Жить со спокойной, чистой совестью",
-            "Спрашивать совета"
+            "银行卡每个月多出至少三万块钱且一年出差出国旅游六次",
+            "嗓子不疼、家人买到甜西瓜、下班没遇暴雨且能安心睡好觉",
+            "必须当年考到第一名、花很多钱买限量奢侈品并去极远地方"
+          ],
+          "optionsPinyin": [
+            "Yínhángkǎ měi ge yuè duōchū zhìshǎo sān wàn kuài qián qiě yì nián chūchāi chūguó lǚyóu liù cì",
+            "Sǎngzi bù téng, jiārén mǎidào tián xīguā, xiàbān méi yù bàoyǔ qiě néng ānxīn shuìhǎo jiào",
+            "Bìxū dāngnián kǎodào dì yī míng, huā hěn duō qián mǎi xiànliàng shēchǐpǐn bìng qù jí yuǎn dìfang"
+          ],
+          "optionsRu": [
+            "Тридцать тысяч отложений каждый месяц",
+            "Не болит горло, родные прислали фото сладкого арбуза, не попал под дождь и спишь без снотворного с чистой совестью",
+            "Первые места, люксовые вещи и далёкие туры"
           ],
           "correctIndex": 1,
-          "explanation": "Не испытывать укоров совести."
+          "explanation": "Когда днём совесть чиста (问心无愧), а ночью спишь крепко и без тревог — обычные будни сами становятся щедрым подарком!"
+        },
+        {
+          "lang": "zh",
+          "question": "为什么文章标题特别把「睡前不用吃安眠药，安心合上眼睛」当作大幸福？",
+          "questionPinyin": "Wèishénme wénzhāng biāotí tèbié bǎ \"shuìqián búyòng chī ānmiányào, ānxīn héshàng yǎnjing\" dāngzuò dà xìngfú?",
+          "questionRu": "Какой смысл автор вкладывает в мысль о спокойном сне без таблеток и тревог?",
+          "options": [
+            "内心的安稳和平静才是最难得、最踏实的日常礼物",
+            "因为社区旁边药店买的助眠药实在太贵吃不起",
+            "因为只有冬天喝完热牛奶以后才能勉强合上眼"
+          ],
+          "optionsPinyin": [
+            "Nèixīn de ānwěn hé píngjìng cái shì zuì nándé, zuì tāshi de rìcháng lǐwù",
+            "Yīnwèi shèqū pángbiān yàodiàn mǎi de zhùmiányào shízài tài guì chī bu qǐ",
+            "Yīnwèi zhǐyǒu dōngtiān hēwán rè niúnǎi yǐhòu cái néng miǎnqiǎng héshàng yǎn"
+          ],
+          "optionsRu": [
+            "Внутренний мир и душевный покой к концу дня ценнее любых громких достижений",
+            "Снотворное стало слишком дорогим",
+            "Сон приходит только с молоком зимой"
+          ],
+          "correctIndex": 0,
+          "explanation": "Земное, тёплое определение настоящего благополучия."
         }
       ]
     },
@@ -3569,34 +4949,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Почему на старой кухне не помещалась обычная сушилка?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Не было шкафов",
             "Столешница слишком узкая после чайника и рисоварки",
             "Раковина была далеко"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "放完电饭煲和烧水壶以后，根本没有位置."
         },
         {
+          "lang": "ru",
           "question": "Где держится новая раздвижная сушилка?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "На стене на присосках",
             "Прямо сверху над раковиной",
             "На холодильнике"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "直接横架在水槽正上方."
         },
         {
-          "question": "Что с ней можно сделать, когда посуда высохла?",
+          "lang": "zh",
+          "question": "在台面很窄的小厨房放完电饭煲和烧水壶以后，她淘到的小神器架在什么位置省出大半台面？",
+          "questionPinyin": "Zài táimiàn hěn zhǎi de xiǎo chúfáng fàngwán diànfànbāo hé shāoshuǐhú yǐhòu, tā táodào de xiǎo shénqì jià zài shénme wèizhi shěngchū dàbàn táimiàn?",
+          "questionRu": "Куда устанавливается выдвижная полка для сушки посуды (沥水篮), которая спасла узкую кухню?",
           "options": [
-            "Поставить к стене",
-            "Свернуть и убрать в ящик",
-            "Оставить как поднос"
+            "直接挂在客厅进门后面的衣帽挂钩旁边",
+            "直接横架在厨房洗碗水槽的正上方",
+            "放进电饭煲下面的高抽屉最底下一层"
+          ],
+          "optionsPinyin": [
+            "Zhíjiē guà zài kètīng jìnmén hòumiàn de yīmào guàgōu pángbiān",
+            "Zhíjiē héngjià zài chúfáng xǐwǎn shuǐcáo de zhèng shàngfāng",
+            "Fàngjìn diànfànbāo xiàmiàn de gāo chōuti zuì dǐxia yì céng"
+          ],
+          "optionsRu": [
+            "Вешается в прихожей",
+            "Раскладывается прямо поперёк кухонной мойки — вода сразу стекает в раковину без луж на столе",
+            "Убирается под рисоварку навсегда"
           ],
           "correctIndex": 1,
-          "explanation": "轻轻一卷就能收进抽屉角落."
+          "explanation": "Прежние стопки мокрых тарелок разводили сырость и лужи на столешнице, а над мойкой можно сушить и доску, и вымытые фрукты!"
+        },
+        {
+          "lang": "zh",
+          "question": "这只可伸缩不锈钢沥水架平时做完家务不用的时候，怎么轻松收起来？",
+          "questionPinyin": "Zhè zhī kě shēnsuō bùxiùgāng lìshuǐjià píngshí zuòwán jiāwù búyòng de shíhou, zěnme qīngsōng shōu qǐlai?",
+          "questionRu": "Как удобно хранить эту сушилку, когда посуда уже высохла и хочется пустой раковины?",
+          "options": [
+            "必须拿扳手拆下八颗螺丝再放回大纸箱",
+            "轻轻一卷就能直接收进抽屉角落",
+            "只能一直固定死在墙壁瓷砖上拿不下来"
+          ],
+          "optionsPinyin": [
+            "Bìxū ná bānshǒu chāixià bā kē luósī zài fànghuí dà zhǐxiāng",
+            "Qīngqīng yì juǎn jiù néng zhíjiē shōujìn chōuti jiǎoluò",
+            "Zhǐ néng yìzhí gùdìngsǐ zài qiángbì cízhuan shàng ná bu xiàlai"
+          ],
+          "optionsRu": [
+            "Разбирается гаечным ключом",
+            "Просто сворачивается в рулон одним движением и убирается в угол ящика",
+            "Намертво прикручена к кафелю"
+          ],
+          "correctIndex": 1,
+          "explanation": "Для крошечных кухонь малогабариток (小户型) — настоящая находка за пару десятков юаней!"
         }
       ]
     },
@@ -3685,34 +5111,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Почему в ванной появлялась сырость?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Текла труба",
             "Не было окна для проветривания",
             "Забывали закрывать кран"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "租来的公寓卫生间都没有窗户."
         },
         {
+          "lang": "ru",
           "question": "Что посоветовала хозяйка квартиры поставить в угол?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Вентилятор",
             "Два угольных поглотителя влаги",
             "Соль в банке"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "活性炭除湿盒."
         },
         {
-          "question": "Что затем кладётся на раковину для лёгкого аромата?",
+          "lang": "zh",
+          "question": "以前把贵的扩香石、香薰喷雾放进没有窗户的湿浴室里，为什么反而更难闻？",
+          "questionPinyin": "Yǐqián bǎ guì de kuòxiāngshí, xiāngxūn pēnwù fàngjìn méiyǒu chuānghù de shī yùshì lǐ, wèishénme fǎn'ér gèng nánwén?",
+          "questionRu": "Почему дорогие ароматизаторы и спреи не помогли в ванной комнате без окна?",
           "options": [
-            "Лимон",
-            "Приоткрытый кусок душистого мыла",
-            "Сушёная мята"
+            "因为香薰喷雾遇到水蒸汽立刻就挥发消失一干二净",
+            "浓郁香味跟厚重潮湿怪味混在一起变得更腻更难闻",
+            "因为浴室地板把扩香石全都泡碎弄脏了"
+          ],
+          "optionsPinyin": [
+            "Yīnwèi xiāngxūn pēnwù yùdào shuǐzhēngqì lìkè jiù huīfā xiāoshī yìgān-èrjing",
+            "Nóngyù xiāngwèi gēn hòuzhòng cháoshī guàiwèi hùn zài yìqǐ biànde gèng nì gèng nánwén",
+            "Yīnwèi yùshì dìbǎn bǎ kuòxiāngshí quán dōu pàosuì nòngzāng le"
+          ],
+          "optionsRu": [
+            "Запах мгновенно исчезал от пара",
+            "Душный аромат смешивался с тяжёлой сыростью, делая воздух ещё противнее",
+            "Диффузоры растворялись на полу"
           ],
           "correctIndex": 1,
-          "explanation": "剥掉一半包装的香皂."
+          "explanation": "Хозяйка квартиры подсказала решать причину, а не маскировать: сперва поглотить влагу активированным углём (活性炭除湿盒)."
+        },
+        {
+          "lang": "zh",
+          "question": "用十块钱炭包吸干湿气以后，放那半剥开包装的香皂为什么被称为「一举两得」？",
+          "questionPinyin": "Yòng shí kuài qián tànbāo xīgān shīqì yǐhòu, fàng nà bàn bōkāi bāozhuāng de xiāngzào wèishénme bèi chēngwéi \"yì jǔ liǎng dé\"?",
+          "questionRu": "Почему кусочек недорогого душистого мыла с наполовину снятой обёрткой на раковине оказался решением «двух зайцев сразу»?",
+          "options": [
+            "既可以当镜子旁漂亮装饰品又能用来除掉角落里的青苔",
+            "既省下了水费又能自动把整个屋子的水汽全部吸干",
+            "既能持续让浴室好闻，换下来还能用来洗手或洗贴身衣物"
+          ],
+          "optionsPinyin": [
+            "Jì kěyǐ dāng jìngzi páng piàoliang zhuāngshìpǐn yòu néng yònglái chúdiào jiǎoluò lǐ de qīngtái",
+            "Jì shěngxià le shuǐfèi yòu néng zìdòng bǎ zhěngge wūzi de shuǐqì quánbù xīgān",
+            "Jì néng chíxù ràng yùshì hǎowén, huàn xiàlai hái néng yònglái xǐshǒu huò xǐ tiēshēn yīwu"
+          ],
+          "optionsRu": [
+            "Украшает зеркало и чистит плитку",
+            "Заменяет осушитель воздуха",
+            "И наполняет сухую ванную нежным запахом молока/гардении, и потом честно тратится для рук или белья"
+          ],
+          "correctIndex": 2,
+          "explanation": "Две пачки угля за 10 юаней плюс кусочек хорошего мыла — дёшево, чисто и без удушливой химии."
         }
       ]
     },
@@ -3801,34 +5273,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Какая проблема бывает со старыми прозрачными чехлами?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Они рвутся по углам",
             "Желтеют и выглядят старыми",
             "Скользят в руках"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "有点发黄的透明壳，显得旧旧的."
         },
         {
+          "lang": "ru",
           "question": "Как скрыть желтизну и обновить чехол за 5 минут?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Покрасить лаком",
             "Подложить цветную вырезанную бумагу и наклеить объёмные стикеры",
             "Замочить в кипятке"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "彩纸剪出小背景垫在透明壳里 + 防水立体贴纸."
         },
         {
-          "question": "Что значит «看腻了»?",
+          "lang": "zh",
+          "question": "为了不浪费发黄或看腻的旧透明手机壳，博主是怎么用五分钟给它「大变身」的？",
+          "questionPinyin": "Wèile bú làngfèi fāhuáng huò kànnì de jiù tòumíng shǒujīké, bózhǔ shì zěnme yòng wǔ fēnzhōng gěi tā \"dà biànshēn\" de?",
+          "questionRu": "Как быстро за пять минут превратить скучный старый прозрачный чехол в стильный аксессуар?",
           "options": [
-            "Потерять интерес / внешне надоело",
-            "Испортиться от воды",
-            "Сломаться"
+            "整只刷上厚厚黑色丙烯油漆然后放到烤箱烘烤半小时",
+            "直接泡进加了大量白醋和洗洁精的热水盆里煮二十分钟",
+            "垫进剪好的彩纸背景，贴立体小狗小花贴纸，打孔配挂绳"
+          ],
+          "optionsPinyin": [
+            "Zhěng zhī shuāshàng hòuhòu hēisè bǐngxī yóuqī ránhòu fàngdào kǎoxiāng hōngkǎo bàn xiǎoshí",
+            "Zhíjiē pàojìn jiā le dàliàng báicù hé xǐjiéjīng de rèshuǐpén lǐ zhǔ èrshí fēnzhōng",
+            "Diànjìn jiǎnhǎo de cǎizhǐ bèijǐng, tiē lìtǐ xiǎogǒu xiǎohuā tiēzhǐ, dǎkǒng pèi guàshéng"
+          ],
+          "optionsRu": [
+            "Запечь в духовке с акрилом",
+            "Прокипятить в уксусе",
+            "Вложить внутрь вырезанный цветной фон, наклеить объёмные стикеры и прикрепить ремешок-брелок"
+          ],
+          "correctIndex": 2,
+          "explanation": "Всего за пару юаней на наклейки и ремешок получилась «эксклюзивная новинка» на смену под разную одежду!"
+        },
+        {
+          "lang": "zh",
+          "question": "这样亲手改造完成挂上斜挎背带以后，最让她开心的地方在哪里？",
+          "questionPinyin": "Zhèyàng qīnshǒu gǎizào wánchéng guàshàng xiékuà bèidài yǐhòu, zuì ràng tā kāixīn de dìfang zài nǎlǐ?",
+          "questionRu": "Что больше всего радует героиню в таком DIY-чехле со сменными ремешками?",
+          "options": [
+            "五分钟花几块钱就变成独一款，天天还能换背带搭不同衣服",
+            "可以把它当成厚重的防身砖块一点也不怕摔在地上",
+            "以后再也不用拿着手机出门直接放家里当桌面摆件看"
+          ],
+          "optionsPinyin": [
+            "Wǔ fēnzhōng huā jǐ kuài qián jiù biànchéng dú yì kuǎn, tiāntiān hái néng huàn bèidài dā bùtóng yīfu",
+            "Kěyǐ bǎ tā dāngchéng hòuzhòng de fángshēn zhuānkuài yìdiǎn yě bú pà shuāi zài dìshàng",
+            "Yǐhòu zài yě búyòng názhe shǒujī chūmén zhíjiē fàng jiālǐ dāng zhuōmiàn bǎijiàn kàn"
+          ],
+          "optionsRu": [
+            "Старый крепкий чехол не пропадает зря — стал уникальным, а ленту можно менять под цвет наряда",
+            "Использует как кирпич",
+            "Оставляет его дома как подставку"
           ],
           "correctIndex": 0,
-          "explanation": "Приесться, надоесть от частого использования."
+          "explanation": "Минимум затрат и ноль пластикового мусора ради хорошего настроения."
         }
       ]
     },
@@ -3917,34 +5435,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Почему в офисе зимой шелушится кожа?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Мало пьют чая",
             "Центральное отопление сильно сушит воздух",
             "Слишком холодный кондиционер"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "打开中央暖气以后，整栋写字楼干得像沙漠."
         },
         {
+          "lang": "ru",
           "question": "Почему увлажнитель не портит бумаги и клавиатуру?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Стоит на полу",
             "Выпускает очень мелкий, деликатный туман",
             "Работает по 5 минут в час"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "水雾非常细腻，不会弄湿文件夹和键盘."
         },
         {
-          "question": "Что нужно делать с устройством перед уходом домой?",
+          "lang": "zh",
+          "question": "一进十一月写字楼开中央暖气后坐在工位一下午，为什么女生的脸颊容易难受甚至「卡粉」？",
+          "questionPinyin": "Yí jìn shíyīyuè xiězìlóu kāi zhōngyāng nuǎnqì hòu zuò zài gōngwèi yí xiàwǔ, wèishénme nǚshēng de liǎnjiá róngyì nánshòu shènzhì \"kǎfěn\"?",
+          "questionRu": "Какая офисная проблема начинается в ноябре с включением центрального отопления?",
           "options": [
-            "Оставить включённым",
-            "Вылить остаток воды и просушить от накипи",
-            "Добавить ароматическое масло"
+            "中央暖气每次吹风都会把工位上的文件全部吹飞掉",
+            "空气干得像沙漠，导致鼻子干痒，脸颊两旁起干皮卡粉",
+            "暖气太烫导致全办公室的人下午两小时就满脸出油长痘"
+          ],
+          "optionsPinyin": [
+            "Zhōngyāng nuǎnqì měi cì chuīfēng dōu huì bǎ gōngwèi shàng de wénjiàn quánbù chuīfēi diào",
+            "Kōngqì gān de xiàng shāmò, dǎozhì bízi gānyǎng, liǎnjiá liǎngpáng qǐ gānpí kǎfěn",
+            "Nuǎnqì tài tàng dǎozhì quán bàngōngshì de rén xiàwǔ liǎng xiǎoshí jiù mǎnliǎn chūyóu zhǎngdòu"
+          ],
+          "optionsRu": [
+            "Бумаги сдувает со стола",
+            "Воздух становится сухим как пустыня: щиплет нос, кожа шелушится (起皮) и скатывается макияж (卡粉)",
+            "Начинается сильная потливость"
           ],
           "correctIndex": 1,
-          "explanation": "把里面剩水倒掉晾干防止长水垢."
+          "explanation": "Спас миниатюрный USB-увлажнитель размером с кружку, который тише шуршания страниц выпускает мелкий туман без мокрых пятен на папке и клавиатуре."
+        },
+        {
+          "lang": "zh",
+          "question": "下班回家前，作者特意提醒使用桌面小加湿器必须顺手做哪一步保养？",
+          "questionPinyin": "Xiàbān huíjiā qián, zuòzhě tèyì tíxǐng shǐyòng zhuōmiàn xiǎo jiāshīqì bìxū shùnshǒu zuò nǎ yí bù bǎoyǎng?",
+          "questionRu": "О какой важной вечерней гигиенической мелочи для мини-увлажнителя напоминает автор перед уходом домой?",
+          "options": [
+            "一定加满一勺自来水加两滴香水盖紧放到明天继续吹",
+            "每天下班都要把滤芯扔掉换一个全新棉棒",
+            "把里面剩下的水倒掉晾干，防止长水垢"
+          ],
+          "optionsPinyin": [
+            "Yídìng jiāmǎn yì sháo zìláishuǐ jiā liǎng dī xiāngshuǐ gàijǐn fàngdào míngtiān jìxù chuī",
+            "Měitiān xiàbān dōu yào bǎ lǜxīn rēngdiào huàn yí ge quánxīn miánbàng",
+            "Bǎ lǐmiàn shèngxià de shuǐ dàodiào liànggān, fángzhǐ zhǎng shuǐgòu"
+          ],
+          "optionsRu": [
+            "Добавлять туда духи на ночь",
+            "Менять фильтр каждый день",
+            "Выливать остатки воды и просушивать бачок, чтобы не образовывался налёт (水垢)"
+          ],
+          "correctIndex": 2,
+          "explanation": "Заливать чистую воду и просушивать вечером — и вся зима проходит с мягкой увлажнённой кожей!"
         }
       ]
     },
@@ -4033,34 +5597,80 @@
       ],
       "quiz": [
         {
+          "lang": "ru",
           "question": "Какая проблема мешала работать с ноутбуком у окна в кафе?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "Медленный Wi-Fi",
             "Сильные блики на глянцевом экране как в зеркале",
             "Тесные столы"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "遇到太阳或者射灯特别容易反光，像照镜子一样."
         },
         {
+          "lang": "ru",
           "question": "Сколько стоила магнитная матовая плёнка?",
+          "questionPinyin": "",
+          "questionRu": "",
           "options": [
             "50 юаней",
             "Чуть больше 10 юаней",
             "100 юаней"
           ],
+          "optionsPinyin": [],
+          "optionsRu": [],
           "correctIndex": 1,
           "explanation": "十几块钱买了一张磁吸式磨砂防反光护眼膜."
         },
         {
-          "question": "Чем удобно магнитное крепление?",
+          "lang": "zh",
+          "question": "在采光很好的咖啡馆靠窗用笔记本电脑办公时，为什么不到两小时她太阳穴就开始一跳一跳地发酸？",
+          "questionPinyin": "Zài cǎiguāng hěn hǎo de kāfēiguǎn kàochuāng yòng bǐjìběn diànnǎo bàngōng shí, wèishénme bú dào liǎng xiǎoshí tā tàiyángxué jiù kāishǐ yítiào-yítiào de fāsuān?",
+          "questionRu": "Почему через два часа работы у светлого окна кофейни у автора начинали ломить виски и глаза?",
           "options": [
-            "Не собирает пыль",
-            "Вечером перед фильмом можно снять за секунду",
-            "Сама держится вечно"
+            "因为屏幕亮度只能调到最暗害得一直拼命往前伸脖子",
+            "因为靠窗冷风直接吹在脸上没有带小加湿器导致发干",
+            "玻璃屏幕遇到强光和头顶射灯像照镜子一样严重反光"
           ],
-          "correctIndex": 1,
-          "explanation": "追电影时还能一秒取下来恢复高清画质."
+          "optionsPinyin": [
+            "Yīnwèi píngmù liàngdù zhǐ néng tiáo dào zuì àn hàide yìzhí pīnmìng wǎng qián shēn bózi",
+            "Yīnwèi kàochuāng lěngfēng zhíjiē chuī zài liǎnshàng méiyǒu dài xiǎo jiāshīqì dǎozhì fāgān",
+            "Bōli píngmù yùdào qiángguāng hé tóudǐng shèdēng xiàng zhào jìngzi yíyàng yánzhòng fǎnguāng"
+          ],
+          "optionsRu": [
+            "Экран был сломан на минимум яркости",
+            "Сквозило из окна",
+            "Глянцевый стеклянный экран бликовал от солнца и софитов как зеркало, заставляя щуриться и ловить угол"
+          ],
+          "correctIndex": 2,
+          "explanation": "Магнитная матовая антибликовая плёнка (磨砂护眼膜) всего за дюжину юаней мгновенно рассеяла все отражения!"
+        },
+        {
+          "lang": "zh",
+          "question": "选「磁吸式」磨砂护眼膜而不是一次性死死粘牢贴膜的最大好处是什么？",
+          "questionPinyin": "Xuǎn \"cíxīshì\" móshā hùyǎnmó ér bú shì yícìxìng sǐsǐ zhānláo tiēmó de zuì dà hǎochù shì shénme?",
+          "questionRu": "В чём главное удобство именно магнитной съёмной (磁吸式) матовой плёнки перед обычной клеевой?",
+          "options": [
+            "晚上回家追电影时可以一秒取下来，马上恢复高清画质",
+            "只要贴在电脑上面就能够自动防止电脑屏幕跌落摔碎",
+            "磁吸款比普通贴膜更重而且可以拿来顺便当鼠标垫"
+          ],
+          "optionsPinyin": [
+            "Wǎnshang huíjiā zhuī diànyǐng shí kěyǐ yì miǎo qǔ xiàlai, mǎshàng huīfù gāoqīng huàzhì",
+            "Zhǐyào tiē zài diànnǎo shàngmiàn jiù nénggòu zìdòng fángzhǐ diànnǎo píngmù diēluò shuāisuì",
+            "Cíxīkuǎn bǐ pǔtōng tiēmó gèng zhòng érqiě kěyǐ nálái shùnbiàn dāng shǔbiāodiàn"
+          ],
+          "optionsRu": [
+            "Вечером дома перед фильмом её снимаешь за секунду и возвращаешь идеальную сочную картинку HD",
+            "Защищает от падения со стола",
+            "Можно использовать как коврик для мыши"
+          ],
+          "correctIndex": 0,
+          "explanation": "Работа днём без бликов, кино вечером в сочном цвете — по-настоящему «малыми деньгами решить большую задачу» (花小钱办大事)!"
         }
       ]
     }
