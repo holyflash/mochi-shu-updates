@@ -1,9 +1,9 @@
 {
   "packageName": "dev.mochi.shu",
-  "versionCode": 3,
-  "versionName": "0.2.0",
-  "apkUrl": "https://raw.githubusercontent.com/holyflash/mochi-shu-updates/main/apk/MochiShu-0.2.0.apk",
-  "sha256": "edb99dd1be24641eae9cd4e1d15d46c74dfc6b197485cd2770fecf6e8b3eb18a",
-  "changelog": "Mochi Shu 0.2.0: обновление постов, словаря и улучшений чтения.",
+  "versionCode": 4,
+  "versionName": "0.2.1",
+  "apkUrl": "https://raw.githubusercontent.com/holyflash/mochi-shu-updates/main/apk/MochiShu-0.2.1.apk",
+  "sha256": "5c974e5832627b12f901b2cb49c18e6e50a8b063d1f84da3c98464537bb9d3ca",
+  "changelog": "Mochi Shu 0.2.1: обновление постов, словаря и улучшений чтения.",
   "publishedAt": "2026-11-26"
 }
