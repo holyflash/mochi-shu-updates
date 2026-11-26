@@ -1,10 +1,10 @@
 {
-  "version": 3,
+  "version": 4,
   "updatedAt": "2026-11-26",
-  "postsCount": 382,
-  "wordsCount": 2719,
-  "postsSha256": "8fec85dce6cb98db1d6d41af5a113e1841d7663096b856507e9e6a4f8bc3ef87",
-  "wordsSha256": "fdca79325af594add57e1596ca32ffdfda398601fa3ad43a81661879bbfe7385",
+  "postsCount": 385,
+  "wordsCount": 2931,
+  "postsSha256": "30ab4d8e56b65e7ef0c4ed63fa34a73d6a07701395b48c42058109645731dcc3",
+  "wordsSha256": "68929ba537ebdfcc6d14ab4cee9e840d264e135cf1a22b20ac23150a90f804d2",
   "postsPackUrl": "https://raw.githubusercontent.com/holyflash/mochi-shu-updates/main/packs/posts_pack_live.json",
   "wordsPackUrl": "https://raw.githubusercontent.com/holyflash/mochi-shu-updates/main/packs/words_pack_live.json"
 }
