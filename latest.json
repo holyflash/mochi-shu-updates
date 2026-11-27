@@ -1,9 +1,35 @@
 {
   "packageName": "dev.mochi.shu",
-  "versionCode": 8,
-  "versionName": "0.3.3",
-  "apkUrl": "https://raw.githubusercontent.com/holyflash/mochi-shu-updates/main/apk/MochiShu-0.3.3.apk",
-  "sha256": "aad2f5d96e599f17d271bbc81468ba52383561221967881227cb9871eccb4a93",
-  "changelog": "Mochi Shu 0.3.3: обновление постов, словаря и улучшений чтения.",
-  "publishedAt": "2026-11-26"
+  "versionCode": 9,
+  "versionName": "0.3.4",
+  "apkUrl": "https://raw.githubusercontent.com/holyflash/mochi-shu-updates/main/apk/MochiShu-0.3.4.apk",
+  "sha256": "25ce782fb5d7a0b238cb1dc7b507ed9a5591a15a25acbc30abb26cc501306a50",
+  "changelog": "Mochi Shu 0.3.4: обновление постов, словаря и улучшений чтения.",
+  "publishedAt": "2026-11-27",
+  "deltas": [
+    {
+      "fromVersionCode": 8,
+      "fromVersionName": "0.3.3",
+      "fromSha256": "aad2f5d96e599f17d271bbc81468ba52383561221967881227cb9871eccb4a93",
+      "patchUrl": "https://raw.githubusercontent.com/holyflash/mochi-shu-updates/main/apk/MochiShu-0.3.3-to-0.3.4.mpatch",
+      "patchSha256": "e08ca5ad4e7898e549b2d7db4f14fa537f4b05c59e8d18bdfd40aedb81b67b3a",
+      "patchBytes": 1833566
+    },
+    {
+      "fromVersionCode": 7,
+      "fromVersionName": "0.3.2",
+      "fromSha256": "998ad7903096f329d6d567f7d34af6ed06792cee962bb7c38fbcb3cc579169ab",
+      "patchUrl": "https://raw.githubusercontent.com/holyflash/mochi-shu-updates/main/apk/MochiShu-0.3.2-to-0.3.4.mpatch",
+      "patchSha256": "e4f14dd7d9e61298f5c055d601183ae16825e2194d917000db5daa252af22042",
+      "patchBytes": 1833565
+    },
+    {
+      "fromVersionCode": 6,
+      "fromVersionName": "0.3.1",
+      "fromSha256": "944bf796362adbd771dea59647f121057155d066106fcf9960d44f9530c491de",
+      "patchUrl": "https://raw.githubusercontent.com/holyflash/mochi-shu-updates/main/apk/MochiShu-0.3.1-to-0.3.4.mpatch",
+      "patchSha256": "126489ecd83eb5288ce2af23d63db0d8fddde5aadd6f4b2056225215f51a273c",
+      "patchBytes": 1833566
+    }
+  ]
 }
